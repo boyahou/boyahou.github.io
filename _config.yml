@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Boya Hou"
 title_separator          : "-"
-name                     : &name "Boya Hou"
+name                     : &name "Boya Hou (Chinese: 侯博雅)"
 description              : &description "PhD Candidate (UIUC)"
 url                      : https://boyahou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
