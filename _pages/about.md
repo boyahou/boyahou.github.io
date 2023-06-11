@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am a 4th year PhD student with the Department of Electrical and Computer Engineering, University of Illinois, Urbana-Champaign. I am very fortunate to be advised by [Prof. Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received Master of Engineering in Electrical and Computer Engineering from University of Illinois, Urbana-Champaign in December 2019 and BS in Electrical and Computer Engineering from Zhejiang University in March 2019. 
-My research interests are in the areas of data-driven learning and control, with a focus on applications to electric power grid and electrified transportation. 
+My research interests are in the areas of data-driven learning and control, in single/multi-agent setting, with a focus on applications to electric power grid and electrified transportation. 
 
 
 
