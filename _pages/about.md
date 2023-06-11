@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Boya Hou (Chinese:侯博雅)"
+title: "Boya Hou"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
