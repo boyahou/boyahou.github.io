@@ -84,11 +84,11 @@ author:
   avatar           : "boya.png"
   bio              : "PhD candidate"
   location         : "Champaign-Urbana, IL"
-  employer         :
-  pubmed           :# "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+ # employer         :
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NvKHgbgAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+ # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
