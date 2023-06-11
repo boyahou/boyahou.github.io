@@ -14,6 +14,8 @@ My research interests are in the areas of data-driven learning and control, with
 
 
 
-Please find my CV here: [BoyaCV](../assets/BoyaCV.pdf)
+Please find my CV here: [Boya's CV](../assets/BoyaCV.pdf)
+
+
 
 
