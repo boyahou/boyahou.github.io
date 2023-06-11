@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Boya Hou"
+title                    : "Boya Hou/Homepage"
 title_separator          : "-"
 name                     : &name "Boya Hou"
 description              : &description "PhD Candidate (UIUC)"
