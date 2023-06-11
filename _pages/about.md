@@ -13,3 +13,7 @@ I am a 4th year PhD student with the Department of Electrical and Computer Engin
 My research interests are in the areas of data-driven learning and control, with a focus on applications to electric power grid and electrified transportation. 
 
 
+
+Please find my CV here: [BoyaCV](../assets/BoyaCV.pdf)
+
+
