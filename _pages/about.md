@@ -46,7 +46,7 @@ Outside of mathmatics and engineering, I pursue my passion for dancing. I perfor
 
 <img src="../assets/dance.jpeg" title="Photo by Darren King." width="150" height="150"  >
 
-Photo by Darren King.
+Photo by Darren King during dress rehearsal.
 
 
 
