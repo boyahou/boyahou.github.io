@@ -20,7 +20,7 @@ Please find my CV here: [CV](../assets/BoyaCV.pdf)
 # Research:
 
 - ## Sparse learning of dynamical system:
-    I focus on learning non-parametric sparse representations of dynamical system in [Reproducing Kernel Hilbert Space (RKHS)](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space) with theoretical guarantees. Its applications include value functions approximation of MDPs, characterization of region of attractions, uncertainty propagation and transient stability analysis of power systems. 
+    I focus on learning non-parametric sparse representations of dynamical system in [Reproducing Kernel Hilbert Space (RKHS)](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space) with theoretical guarantees. Its applications include value function approximation for MDPs, characterization of region of attractions, uncertainty propagation and transient stability analysis of power systems. 
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical System in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, accepted at ICML 2023. [paper](../assets/ICML_2023.pdf)
 
