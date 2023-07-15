@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-I am a 4th year PhD student with the Department of Electrical and Computer Engineering, University of Illinois, Urbana-Champaign, advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received Master of Engineering in Electrical and Computer Engineering from University of Illinois, Urbana-Champaign in December 2019 and BS in Electrical and Computer Engineering from Zhejiang University in March 2019. 
-My research interests are in the areas of data-driven learning and control, in single/multi-agent setting, with a focus on applications to electric power grid and electrified transportation. 
+I am a 4th year PhD student in ECE department at the University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received Master of Engineering in Electrical and Computer Engineering from University of Illinois, Urbana-Champaign in December 2019 and BS in Electrical and Computer Engineering from Zhejiang University in March 2019. 
+My research centers around \textbf{efficient data-driven learning for effective control in uncertain environments}: I draw on tools from applied mathematics, machine learning, and control theory to develop data-efficient decision-making algorithms with theoretical guarantees. 
 
 
 
@@ -19,8 +19,8 @@ Please find my CV here: [CV](../assets/BoyaCV.pdf)
 
 # Research:
 
-- ## Sparse learning of dynamical system:
-    I focus on learning non-parametric sparse representations of dynamical system in [Reproducing Kernel Hilbert Space (RKHS)](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space) with theoretical guarantees. Its applications include value function approximation for MDPs, characterization of region of attractions, uncertainty propagation and transient stability analysis of power systems. 
+- ## Parsimonious Non-parametric Learning of Dynamical Systems:
+    I am interested in learning \emph{parsimonious} representations of dynamical systems from data in both single-agent and multi-agent contexts. My research focuses on an operator-theoretic approach to capture the action of the system dynamics on suitable spaces of functions--[Reproducing Kernel Hilbert Space (RKHS)](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space)--that does not require parametric representations, and thus, makes it appealing from a data-oriented standpoint. I integrated this approach into reinforcement learning, characterization of regions of attraction, uncertainty propagation, and transient stability analysis of power systems. 
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical System in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, accepted at ICML 2023. [paper](../assets/ICML_2023.pdf)
 
