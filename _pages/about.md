@@ -10,14 +10,12 @@ redirect_from:
 
 
 I am a 4th year PhD student in ECE department at the University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received Master of Engineering in Electrical and Computer Engineering from University of Illinois, Urbana-Champaign in December 2019 and BS in Electrical and Computer Engineering from Zhejiang University in March 2019. 
-My research centers around efficient data-driven learning for effective control in uncertain environments: I draw on tools from applied mathematics, machine learning, and control theory to develop data-efficient decision-making algorithms with theoretical guarantees. 
-
-
 
 Please find my CV here: [CV](../assets/BoyaCV.pdf)
 
 
 # Research:
+My research centers around efficient data-driven learning for effective control in uncertain environments: I draw on tools from applied mathematics, machine learning, and control theory to develop data-efficient decision-making algorithms with theoretical guarantees. 
 
 - ## Parsimonious Non-parametric Learning of Dynamical Systems:
     I am interested in learning parsimonious representations of dynamical systems from data in both single-agent and multi-agent contexts. My research focuses on an operator-theoretic approach to capture the action of the system dynamics on [Reproducing Kernel Hilbert Space (RKHS)](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space). I integrated this approach into reinforcement learning, characterization of regions of attraction, uncertainty propagation, and transient stability analysis of power systems. 
