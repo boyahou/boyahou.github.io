@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Boya Hou"
+title                    : false # "Boya Hou"
 title_separator          : "-"
 name                     : &name "Boya Hou"
 description              : &description "PhD Candidate (UIUC)"
 url                      : https://boyahou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+#baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "boyahou/boyahou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -174,19 +174,19 @@ kramdown:
 
 
 # Collections
-collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
-  publications:
-    output: false
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+#collections:
+#  teaching:
+ #   output: false
+ #  permalink: /:collection/:path/
+ # publications:
+ #   output: false
+ #   permalink: /:collection/:path/
+ # portfolio:
+ #   output: false
+ #   permalink: /:collection/:path/
+ # talks:
+ #   output: false
+ #   permalink: /:collection/:path/
 
 # Defaults
 defaults:
