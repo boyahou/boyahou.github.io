@@ -19,9 +19,10 @@ Please find my CV here: [CV](../assets/BoyaCV.pdf)
 My research centers around compressed learning and decision-making in uncertain environments: I draw on tools from applied mathematics, machine learning, and control theory to develop data-efficient algorithms with theoretical guarantees. 
 
 - ## Compressed Learning of Dynamical Systems:
+  
+    <img src="../assets/sysID.png" title="sysID." width="500" height="500"  >
+    
     I am interested in learning compressed representations of dynamical systems from data in single-agent and multi-agent contexts. My research focuses on an operator-theoretic approach to capture the action of the system dynamics on [Reproducing Kernel Hilbert Space (RKHS)](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space). I integrated this approach into reinforcement learning, characterization of regions of attraction, uncertainty propagation, and transient stability analysis of power systems. 
-
-<img src="../assets/sysID.png" title="sysID." width="300" height="300"  >
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, accepted at ICML 2023. [paper](../assets/ICML_2023.pdf); [video](https://recorder-v3.slideslive.com/?share=82362&s=c25bd3f5-2a47-4a76-977d-bc4a3b83b33d)
     
