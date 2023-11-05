@@ -23,7 +23,8 @@ My research centers around compressed learning and decision-making in uncertain 
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, accepted at ICML 2023. [paper](../assets/ICML_2023.pdf); [video](https://recorder-v3.slideslive.com/?share=82362&s=c25bd3f5-2a47-4a76-977d-bc4a3b83b33d)
     
-  - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", under review at Physica D: Nonlinear Phenomena. Also presented as a poster paper at ACC 2023.
+  - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", under review at Physica D: Nonlinear Phenomena.
+    Also presented as a poster paper at the American Control Conference (ACC) 2023.
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, “Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space”, presented at AAAI, 2023. [paper](../assets/AAAI_2023.pdf)
 
