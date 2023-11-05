@@ -21,6 +21,8 @@ My research centers around compressed learning and decision-making in uncertain 
 - ## Compressed Learning of Dynamical Systems:
     I am interested in learning compressed representations of dynamical systems from data in single-agent and multi-agent contexts. My research focuses on an operator-theoretic approach to capture the action of the system dynamics on [Reproducing Kernel Hilbert Space (RKHS)](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space). I integrated this approach into reinforcement learning, characterization of regions of attraction, uncertainty propagation, and transient stability analysis of power systems. 
 
+<img src="../assets/sysID.png" title="sysID." width="300" height="300"  >
+
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, accepted at ICML 2023. [paper](../assets/ICML_2023.pdf); [video](https://recorder-v3.slideslive.com/?share=82362&s=c25bd3f5-2a47-4a76-977d-bc4a3b83b33d)
     
   - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", under review at Physica D: Nonlinear Phenomena.
@@ -54,7 +56,7 @@ Fall 2021, Teaching Assistant, ECE 365 Data Science and Engineering, UIUC.
 # Fun
 Outside of mathematics and engineering, I pursue my passion for dancing. I performed contemporary ballet and dance of the Han-Tang dynasties (a subcategory of Classical Chinese Dance) with Champaign Park District and Zhejiang Wenqin Art Troupe. 
 
-<img src="../assets/dance.jpeg" title="Photo by Darren King." width="800" height="800"  >
+<img src="../assets/dance.jpeg" title="Photo by Darren King." width="650" height="650"  >
 
 
 
