@@ -20,7 +20,7 @@ My research centers around compressed learning and decision-making in uncertain 
 
 - ## Compressed Learning of Dynamical Systems:
   
-    <img src="../assets/sysID.png" title="sysID." width="650" height="650"  >
+    <img src="../assets/sysID.png" title="sysID." width="700" height="700"  >
     
     I am interested in learning compressed representations of dynamical systems from data in single-agent and multi-agent contexts. My research focuses on an operator-theoretic approach to capture the action of the system dynamics on [Reproducing Kernel Hilbert Space (RKHS)](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space). I integrated this approach into reinforcement learning, characterization of regions of attraction, uncertainty propagation, and transient stability analysis of power systems. 
 
