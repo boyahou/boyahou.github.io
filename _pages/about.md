@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a final year PhD student in the ECE department at the University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received B.Tech. from Zhejiang University and M.Eng. from University of Illinois, Urbana-Champaign in 2019. 
+I am a final year PhD student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). I received B.Tech. from Zhejiang University and M.Eng. from University of Illinois, Urbana-Champaign in 2019. 
  
 
 Please find my CV here: [CV](../assets/BoyaCV.pdf)
@@ -54,8 +54,6 @@ Fall 2021, Teaching Assistant, ECE 365 Data Science and Engineering, UIUC.
 Outside of mathematics and engineering, I pursue my passion for dancing. I performed contemporary ballet and dance of the Han-Tang dynasties (a subcategory of Classical Chinese Dance) with Champaign Park District and Zhejiang Wenqin Art Troupe. 
 
 <img src="../assets/dance.jpeg" title="Photo by Darren King." width="150" height="150"  >
-
-Photo by Darren King during dress rehearsal, May 2023.
 
 
 
