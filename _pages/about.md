@@ -12,11 +12,11 @@ redirect_from:
 I am a final-year PhD student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received B.Tech. from Zhejiang University and M.Eng. from University of Illinois, Urbana-Champaign, both in 2019. 
  
 
-Please find my CV here: [CV](../assets/BoyaCV.pdf)
+Please email me for my latest CV.
 
 
 # Research:
-My research centers around compressed learning and decision-making in uncertain environments: I draw on tools from applied mathematics, machine learning, and control theory to develop data-efficient algorithms with theoretical guarantees. 
+Broadly speaking, I am interested in autonomous decision-making, where an agent can conceptualize, reason, and act in a dynamic universe without human intervention. I draw on tools from applied mathematics, machine learning, and control theory to develop data-efficient algorithms with theoretical guarantees. 
 
 - ## Compressed Learning of Dynamical Systems:
   
@@ -26,9 +26,9 @@ My research centers around compressed learning and decision-making in uncertain 
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, accepted at ICML 2023. [download](../assets/ICML_2023.pdf); [video](https://recorder-v3.slideslive.com/?share=82362&s=c25bd3f5-2a47-4a76-977d-bc4a3b83b33d)
     
-  - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", under review at Physica D: Nonlinear Phenomena.
+  - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", under review at Physica D: Nonlinear Phenomena. (Please email me for preprint)
     
-    Also presented as a poster paper at the American Control Conference (ACC) 2023.
+    Also presented as a poster paper at the American Control Conference (ACC) 2023. 
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, “Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space”, presented at AAAI, 2023. [download](../assets/AAAI_2023.pdf)
 
