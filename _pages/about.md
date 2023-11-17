@@ -16,7 +16,7 @@ Please email me for my latest CV.
 
 
 # Research:
-My research centers around developing theoretically sound methodologies for efficient data-driven learning and effective control in uncertain environments. I draw on tools from applied mathematics, machine learning, and control theory to develop data-efficient algorithms with theoretical guarantees. 
+My research centers around developing theoretically sound methodologies for efficient data-driven learning and effective control in uncertain environments.
 
 - ## Compressed Learning of Dynamical Systems:
   
