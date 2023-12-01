@@ -12,7 +12,7 @@ redirect_from:
 I am a final-year PhD student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received B.Tech. from Zhejiang University and M.Eng. from University of Illinois, Urbana-Champaign, both in 2019. 
  
 
-Please email me for my latest CV.
+My CV can be found here [download](../assets/BoyaCV.pdf).
 
 
 # Research:
@@ -25,12 +25,14 @@ My research centers around developing theoretically sound methodologies for effi
     I am interested in learning compressed representations of dynamical systems from data in single-agent and multi-agent contexts. My research focuses on an operator-theoretic approach to capture the action of the system dynamics on [Reproducing Kernel Hilbert Space (RKHS)](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space). I integrated this approach into reinforcement learning, characterization of regions of attraction, uncertainty propagation, and transient stability analysis of power systems. 
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, accepted at ICML 2023. [download](../assets/ICML_2023.pdf); [video](https://recorder-v3.slideslive.com/?share=82362&s=c25bd3f5-2a47-4a76-977d-bc4a3b83b33d)
-    
-  - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", under review at Physica D: Nonlinear Phenomena. (Please email me for preprint)
-    
-    Also presented as a poster paper at the American Control Conference (ACC) 2023. 
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, “Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space”, presented at AAAI, 2023. [download](../assets/AAAI_2023.pdf)
+     
+  - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator”, under submission at IEEE Transactions on Power Systems. (Please email me for preprint)
+
+  - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", under review at Physica D: Nonlinear Phenomena. (Please email me for preprint)
+    
+    Also presented as a poster paper at the American Control Conference (ACC) 2023.
 
   - **B. Hou**, S. Bose and U. Vaidya, “Sparse Learning of Kernel Transfer Operators”, presented at the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](../assets/Asilomar2021.pdf)
 
