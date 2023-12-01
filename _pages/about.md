@@ -12,7 +12,7 @@ redirect_from:
 I am a final-year PhD student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received B.Tech. from Zhejiang University and M.Eng. from University of Illinois, Urbana-Champaign, both in 2019. 
  
 
-My CV can be found here [download](../assets/BoyaCV.pdf).
+My CV can be found here [cv_Boya](../assets/BoyaCV.pdf).
 
 
 # Research:
