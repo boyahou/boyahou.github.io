@@ -16,7 +16,7 @@ My CV can be found here [download](../assets/BoyaCV.pdf).
 
 
 # Research:
-My research centers around developing theoretically sound methodologies for efficient data-driven learning and effective control in uncertain environments.
+My research interests lie in the area of autonomy. I draw on tools from applied mathematics, machine learning, and control theory to develop efficient data-driven algorithms for decision-making in uncertain environments with theoretical guarantees, with a focus on applications to electric power grids and electrified transportation.
 
 - ## Compressed Learning of Dynamical Systems:
   
