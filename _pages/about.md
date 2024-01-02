@@ -21,14 +21,12 @@ My research interests lie in the area of autonomy. I draw on tools from applied 
 
 - ## Compressed Learning of Dynamical Systems:
 
-   In my research, I aim to reconcile the classical model-based approach with the modern learning-based approach, where the role of a model is to represent an agent's existing knowledge and yet to allow for data-driven tuning to perfect control designs. By jointly utilizing models and data, one improves the efficiency of data-driven algorithms since models eliminate the computational burden of learning from scratch. The key threads of my research methodology are:
+   In my research, I aim to reconcile the classical model-based approach with the modern learning-based approach, where the role of a model is to represent an agent's existing knowledge and yet to allow for data-driven tuning to perfect control designs. The key threads of my research methodology are:
   
-  - Building an analytically tractable representation of an agent's knowledge to facilitate learning and decision-making.
-  - Selective loss of details via compression to control model complexity without inducing performance degradation.
+  + An operator-theoretic approach to building an analytically tractable representation of an agent's knowledge.
+  + Selective loss of details via compression to control model complexity.
   
     <img src="../assets/sysID.png" title="sysID." width="700" height="700"  >
-    
-    I am interested in learning compressed representations of dynamical systems from data in single-agent and multi-agent contexts. My research focuses on an operator-theoretic approach to capture the action of the system dynamics on [Reproducing Kernel Hilbert Space (RKHS)](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space). I integrated this approach into reinforcement learning, characterization of regions of attraction, uncertainty propagation, and transient stability analysis of power systems. 
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, accepted at ICML 2023. [download](../assets/ICML_2023.pdf); [video](https://recorder-v3.slideslive.com/?share=82362&s=c25bd3f5-2a47-4a76-977d-bc4a3b83b33d)
 
