@@ -23,7 +23,7 @@ My research interests lie in the area of autonomy. I draw on tools from applied 
 
    In my research, I aim to reconcile the classical model-based approach with the modern learning-based approach, where the role of a model is to represent an agent's existing knowledge and yet to allow for data-driven tuning to perfect control designs. The key threads of my research methodology are:
   
-  + An operator-theoretic approach to building an analytically tractable representation of an agent's knowledge.
+  + An operator-theoretic approach to build an analytically tractable representation of environments.
   + Selective loss of details via compression to control model complexity.
   
     <img src="../assets/sysID.png" title="sysID." width="700" height="700"  >
