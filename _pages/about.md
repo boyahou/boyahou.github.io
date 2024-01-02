@@ -22,7 +22,9 @@ My research interests lie in the area of autonomy. I draw on tools from applied 
 - ## Compressed Learning of Dynamical Systems:
 
    In my research, I aim to reconcile the classical model-based approach with the modern learning-based approach, where the role of a model is to represent an agent's existing knowledge and yet to allow for data-driven tuning to perfect control designs. By jointly utilizing models and data, one improves the efficiency of data-driven algorithms since models eliminate the computational burden of learning from scratch. The key threads of my research methodology are:
-(a) building an analytically tractable representation of an agent's knowledge to facilitate learning and decision-making, and (b) selective loss of details via compression to control model complexity without inducing performance degradation.
+  
+1. Building an analytically tractable representation of an agent's knowledge to facilitate learning and decision-making.
+2. Selective loss of details via compression to control model complexity without inducing performance degradation.
   
     <img src="../assets/sysID.png" title="sysID." width="700" height="700"  >
     
