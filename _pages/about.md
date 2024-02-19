@@ -9,13 +9,12 @@ redirect_from:
 ---
 
 
-I am a final-year PhD student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received M.Eng. from University of Illinois, Urbana-Champaign and B.Tech. from Zhejiang University, both in 2019. 
+I am a final-year PhD student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received M.Eng. from University of Illinois, Urbana-Champaign and B.Tech. from Zhejiang University in 2019. 
  
 
 My CV can be found here [cv_Boya](../assets/BoyaCV.pdf).
 
 
-# Research:
 
 - ## Nonparametric Compressed Learning of Dynamical Systems:
 
@@ -23,8 +22,6 @@ My CV can be found here [cv_Boya](../assets/BoyaCV.pdf).
   
   + An operator-theoretic approach to build an analytically tractable representation of environments.
   + Selective loss of details via compression to control model complexity.
-  
-    <img src="../assets/sysID.png" title="sysID." width="700" height="700"  >
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, accepted at ICML 2023. [download](../assets/ICML_2023.pdf)
 
@@ -40,7 +37,7 @@ My CV can be found here [cv_Boya](../assets/BoyaCV.pdf).
 
 
 - ## Preparing Electrified Transportation:
-   Electrification can help to reduce the carbon footprint of aviation. The transition away from the jet fuel-powered airplane towards battery-powered electrified aircraft will impose extra charging requirements on airports. In order to handle the impending electrification of commercial aviation, we study the interdependency of transportation (airlines) and the energy infrastructure at airports.
+   Electrification can help to reduce the carbon footprint of aviation. The transition away from the jet fuel-powered airplane towards battery-powered electrified aircraft will impose extra charging requirements on airports. In order to handle the impending electrification of commercial aviation, I study the interdependency of transportation (airlines) and the energy infrastructure at airports.
 
   - **B. Hou**, S. Bose, L. Marla and K. Haran, “Impact of Aviation Electrification on Airports: Flight Scheduling and Charging”, IEEE Transactions on Intelligent Transportation Systems. [download](../assets/HEA_ITS.pdf)
 
