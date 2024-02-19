@@ -9,14 +9,18 @@ redirect_from:
 ---
 
 
-I am a final-year Ph.D. student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). I received M.Eng. from UIUC and B.Tech. from Zhejiang University in 2019. I am broadly interested in the area of autonomy. My CV can be found here [cv_Boya](../assets/BoyaCV.pdf).
+I am a final-year Ph.D. student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). I received M.Eng. from UIUC and B.Tech. from Zhejiang University in 2019. I am broadly interested in the area of autonomy. My CV can be found here [CV](../assets/BoyaCV.pdf).
 
 # Research
 
 - ## Nonparametric Compressed Learning of Dynamical Systems:
 
-   In my research, I aim to reconcile the classical model-based approach with the modern learning-based approach, where the role of a model is to represent an agent's existing knowledge and yet to allow for data-driven tuning to perfect control designs. The key threads of my research methodology are (a) an operator-theoretic approach to build an analytically tractable representation of environments; and (b) selective loss of details via compression to control model complexity.
+   In my research, I aim to reconcile the classical model-based approach with the modern learning-based approach, where the role of a model is to represent an agent's existing knowledge and yet to allow for data-driven tuning to perfect control designs.
 
+  The key threads of my research methodology are (a) an operator-theoretic approach to build an analytically tractable representation of environments; and (b) selective loss of details via compression to control model complexity.
+
+  - **B. Hou**, S. Sanjari, A. Koppel, S. Bose, "Compressed Online Learning of Conditional Mean Embedding", (Please email me for preprint)
+ 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, accepted at ICML 2023. [download](../assets/ICML_2023.pdf)
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, “Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space”, presented at AAAI, 2023. [download](../assets/AAAI_2023.pdf)
