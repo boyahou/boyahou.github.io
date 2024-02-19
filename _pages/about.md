@@ -9,17 +9,15 @@ redirect_from:
 ---
 
 
-I am a final-year PhD student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received B.Tech. from Zhejiang University and M.Eng. from University of Illinois, Urbana-Champaign, both in 2019. 
+I am a final-year PhD student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received M.Eng. from University of Illinois, Urbana-Champaign and B.Tech. from Zhejiang University, both in 2019. 
  
 
 My CV can be found here [cv_Boya](../assets/BoyaCV.pdf).
 
 
 # Research:
-My research interests lie in the area of autonomy. I draw on tools from applied mathematics, machine learning, and control theory to develop efficient data-driven algorithms in uncertain environments with theoretical guarantees, with a focus on applications to electric power grids and electrified transportation.
 
-
-- ## Compressed Learning of Dynamical Systems:
+- ## Nonparametric Compressed Learning of Dynamical Systems:
 
    In my research, I aim to reconcile the classical model-based approach with the modern learning-based approach, where the role of a model is to represent an agent's existing knowledge and yet to allow for data-driven tuning to perfect control designs. The key threads of my research methodology are:
   
@@ -32,7 +30,7 @@ My research interests lie in the area of autonomy. I draw on tools from applied 
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, “Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space”, presented at AAAI, 2023. [download](../assets/AAAI_2023.pdf)
      
-  - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator”, under submission at IEEE Transactions on Power Systems. (Please email me for preprint)
+  - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator” (Please email me for preprint)
 
   - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", under review at Physica D: Nonlinear Phenomena. (Please email me for preprint)
     
@@ -54,7 +52,6 @@ My research interests lie in the area of autonomy. I draw on tools from applied 
 -	Mavis Future Faculty Fellows (MF3), 2023-2024
 - AAAI Student Scholarship, 2023
 - The second-place winner in the United States Association for Energy Economics (USAEE) Case Competition, 2019.
-- Outstanding undergraduate thesis of Zhejiang University, 2018.
 - UCLA Cross-disciplinary Scholars in Science and Technology (CSST) Scholarship, 2017
 - First-Class Scholarship of Zhejiang University, 2015.
 
