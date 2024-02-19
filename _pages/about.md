@@ -53,7 +53,6 @@ My CV can be found here [cv_Boya](../assets/BoyaCV.pdf).
 - AAAI Student Scholarship, 2023
 - The second-place winner in the United States Association for Energy Economics (USAEE) Case Competition, 2019.
 - UCLA Cross-disciplinary Scholars in Science and Technology (CSST) Scholarship, 2017
-- First-Class Scholarship of Zhejiang University, 2015.
 
 # Teaching
 Fall 2021, Teaching Assistant, ECE 365 Data Science and Engineering, UIUC.
