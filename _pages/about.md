@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am a final-year Ph.D. student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). I received M.Eng. from UIUC and B.Tech. from Zhejiang University in 2019. I am broadly interested in the area of autonomy. My CV can be found here [CV](../assets/BoyaCV.pdf).
+I am a final-year Ph.D. student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). I received M.Eng. from UIUC and B.Tech. from Zhejiang University in 2019. I am broadly interested in the area of autonomy. 
+
+My CV can be found here [CV](../assets/BoyaCV.pdf).
 
 # Research
 
@@ -19,7 +21,7 @@ I am a final-year Ph.D. student in the ECE department at University of Illinois,
 
   The key threads of my research methodology are (a) an operator-theoretic approach to build an analytically tractable representation of environments; and (b) selective loss of details via compression to control model complexity.
 
-  - **B. Hou**, S. Sanjari, A. Koppel, S. Bose, "Compressed Online Learning of Conditional Mean Embedding", (Please email me for preprint)
+  - **B. Hou**, S. Sanjari, A. Koppel, S. Bose, "Compressed Online Learning of Conditional Mean Embedding", [download](../assets/COLT24.pdf)
  
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, accepted at ICML 2023. [download](../assets/ICML_2023.pdf)
 
@@ -27,7 +29,7 @@ I am a final-year Ph.D. student in the ECE department at University of Illinois,
      
   - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator” (Please email me for preprint)
 
-  - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", under review at Physica D: Nonlinear Phenomena. (Please email me for preprint)
+  - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", under review at Physica D: Nonlinear Phenomena. [download](../assets/PHYSD.pdf)
     
     Also presented as a poster paper at the American Control Conference (ACC) 2023.
 
