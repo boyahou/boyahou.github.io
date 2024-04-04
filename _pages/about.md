@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a final-year Ph.D. student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). I received M.Eng. from UIUC and B.S. from Zhejiang University in 2019. I am broadly interested in the area of autonomy. 
+Thanks for visiting! I am a final-year Ph.D. student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). I received M.Eng. from UIUC and B.S. from Zhejiang University in 2019. I am broadly interested in the area of autonomy. 
 
 My CV can be found here [CV](../assets/BoyaCV.pdf).
 
