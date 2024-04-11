@@ -29,7 +29,8 @@ My CV can be found here [CV](../assets/BoyaCV.pdf).
      
   - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator” (Please email me for preprint)
 
-  - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", under revision at Physica D: Nonlinear Phenomena. [download](../assets/PHYSD.pdf)
+  - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", to appear at Physica D: Nonlinear Phenomena. Special issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024. (https://github.com/boyahou/boyahou.github.io/assets/42317510/4e8dd26c-781f-4908-a5b1-537910fb699a)
+ [download](../assets/PHYSD.pdf)
     
     Also presented as a poster paper at the American Control Conference (ACC) 2023.
 
