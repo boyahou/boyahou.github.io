@@ -21,7 +21,7 @@ My CV can be found here [CV](../assets/BoyaCV.pdf).
 
   The key threads of my research methodology are (a) an operator-theoretic approach to build an analytically tractable representation of environments; and (b) selective loss of details via compression to control model complexity.
 
-  - **B. Hou**, S. Sanjari, A. Koppel, S. Bose, "Compressed Online Learning of Conditional Mean Embedding".
+  - **B. Hou**, S. Sanjari, A. Koppel, S. Bose, "Compressed Online Learning of Conditional Mean Embedding". [download](../assets/COLT_24.pdf)
  
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](../assets/ICML_2023.pdf)
 
