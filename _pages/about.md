@@ -13,6 +13,9 @@ Thanks for visiting! I am a final-year Ph.D. student in the ECE department at Un
 
 My CV can be found here [CV](../assets/BoyaCV.pdf).
 
+# News:
+April 24: I'll be presenting my work at [the 10th Midwest Workshop on Control and Game Theory at Northwestern](https://mwcgt2024.northwestern.edu/) and [the 4th Symposium on Machine Learning and Dynamical Systems at the Fields Institute](https://sites.google.com/site/boumedienehamzi/home/fourth-symposium-on-machine-learning-and-dynamical-systems).
+
 # Research
 
 - ## Nonparametric Compressed Learning of Dynamical Systems:
@@ -26,13 +29,13 @@ My CV can be found here [CV](../assets/BoyaCV.pdf).
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](../assets/ICML_2023.pdf)
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, “Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space”, in Proceedings of the 37th Association for the Advancement of Artificial Intelligence (AAAI) Conference on Artificial Intelligence, 2023. [download](../assets/AAAI_2023.pdf)
-     
-  - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator” (Please email me for preprint)
 
   - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", to appear at Physica D: Nonlinear Phenomena. Special issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024. [download](../assets/PHYSD.pdf)
     
     Also presented as a poster paper at the American Control Conference (ACC) 2023.
 
+  - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator” (Please email me for preprint)
+    
   - **B. Hou**, S. Bose and U. Vaidya, “Sparse Learning of Kernel Transfer Operators”, in Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](../assets/Asilomar2021.pdf)
 
 
