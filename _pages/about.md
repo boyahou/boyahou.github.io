@@ -14,7 +14,7 @@ Thanks for visiting! I am a final-year Ph.D. student in the ECE department at Un
 My CV can be found here [CV](../assets/BoyaCV.pdf).
 
 # News:
-April 24: I'll be presenting my work at [the 10th Midwest Workshop on Control and Game Theory](https://mwcgt2024.northwestern.edu/) at Northwestern and [the 4th Symposium on Machine Learning and Dynamical Systems](https://sites.google.com/site/boumedienehamzi/home/fourth-symposium-on-machine-learning-and-dynamical-systems) at the Fields Institute.
+April, 2024: I'll be presenting my work at [the 10th Midwest Workshop on Control and Game Theory](https://mwcgt2024.northwestern.edu/) at Northwestern and [the 4th Symposium on Machine Learning and Dynamical Systems](https://sites.google.com/site/boumedienehamzi/home/fourth-symposium-on-machine-learning-and-dynamical-systems) at the Fields Institute.
 
 # Research
 
