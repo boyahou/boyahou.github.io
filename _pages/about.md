@@ -34,7 +34,8 @@ April 2024: I'll be presenting my work at [the 10th Midwest Workshop on Control 
     
     Also presented as a poster paper at the American Control Conference (ACC) 2023.
 
-  - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator” (Please email me for preprint)
+  - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator”, under submission at the International Journal of Electrical Power and Energy Systems. [download](../assets/IJEPES.pdf)
+
     
   - **B. Hou**, S. Bose and U. Vaidya, “Sparse Learning of Kernel Transfer Operators”, in Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](https://ieeexplore.ieee.org/abstract/document/9723412)
 
