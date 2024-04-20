@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Thanks for visiting! I am a final-year Ph.D. student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). I received M.Eng. from UIUC and B.S. from Zhejiang University in 2019. 
+Thanks for visiting! I am a final-year Ph.D. student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received M.Eng. from UIUC and B.S. from Zhejiang University in 2019. 
 
 My CV can be found here (April 2024) [CV](../assets/BoyaCV.pdf).
 
@@ -17,14 +17,12 @@ My CV can be found here (April 2024) [CV](../assets/BoyaCV.pdf).
 April 2024: I'll be presenting my work at [the 10th Midwest Workshop on Control and Game Theory](https://mwcgt2024.northwestern.edu/) at Northwestern, and [the 4th Symposium on Machine Learning and Dynamical Systems](https://sites.google.com/site/boumedienehamzi/home/fourth-symposium-on-machine-learning-and-dynamical-systems) at the Fields Institute.
 
 # Research
-Autonomous systems are just around the corner. Different from "automated" agents that operate in a fixed world, "autonomous" ones should be able to conceptualize, reason, and act in changing environments without human intervention. How can autonomous agents understand the environment landscape? How to learn a representation of the environment such that knowledge can be transferred to related environments, and extrapolated to unknown environments? How could we control the complexity of such a representation? The goal of my research is to answer these questions. 
+Autonomous systems are just around the corner. Different from "automated" agents that operate in a fixed world, "autonomous" ones should be able to conceptualize, reason, and act in changing environments without human intervention. 
+
+How can autonomous agents understand the environment landscape? How to learn a representation of the environment such that knowledge can be transferred to related environments, and extrapolated to unknown environments? How could we control the complexity of such a representation? The goal of my research is to answer these questions. 
 
 
 - ## Nonparametric Compressed Learning of Dynamical Systems:
-
-   In my research, I aim to reconcile the classical model-based approach with the modern learning-based approach, where the role of a model is to represent an agent's existing knowledge and yet to allow for data-driven tuning to perfect control designs.
-
-  The key threads of my research methodology are (a) an operator-theoretic approach to build an analytically tractable representation of environments; and (b) selective loss of details via compression to control model complexity.
 
   - **B. Hou**, S. Sanjari, A. Koppel, S. Bose, "Compressed Online Learning of Conditional Mean Embedding". under submission at COLT 2024 [download](../assets/COLT2024.pdf)
  
