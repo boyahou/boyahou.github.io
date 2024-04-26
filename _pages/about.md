@@ -22,8 +22,6 @@ Autonomous systems are just around the corner. Different from "automated" agents
 
 
 - ## Nonparametric Compressed Learning of Dynamical Systems:
-
-  - **B. Hou**, S. Sanjari, A. Koppel, S. Bose, "Compressed Online Learning of Conditional Mean Embedding". Under submission at COLT 24
  
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
 
@@ -32,12 +30,12 @@ Autonomous systems are just around the corner. Different from "automated" agents
   - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", Physica D: Nonlinear Phenomena. Special issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024. [download](https://doi.org/10.1016/j.physd.2024.134168)
     
     Also presented as a poster paper at the American Control Conference (ACC) 2023.
-
-  - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator”, under submission at the International Journal of Electrical Power and Energy Systems. [download](../assets/IJEPES.pdf)
-
     
   - **B. Hou**, S. Bose and U. Vaidya, “Sparse Learning of Kernel Transfer Operators”, in Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](https://ieeexplore.ieee.org/abstract/document/9723412)
 
+  - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator”, under submission at the International Journal of Electrical Power and Energy Systems. [download](../assets/IJEPES.pdf)
+ 
+  - **B. Hou**, S. Sanjari, A. Koppel, S. Bose, "Compressed Online Learning of Conditional Mean Embedding". Under submission at COLT 24
 
 - ## Preparing Electrified Transportation:
    Electrification can help to reduce the carbon footprint of aviation. The transition away from the jet fuel-powered airplane towards battery-powered electrified aircraft will impose extra charging requirements on airports. In order to handle the impending electrification of commercial aviation, I study the interdependency of transportation (airlines) and the energy infrastructure at airports.
