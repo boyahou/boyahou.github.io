@@ -23,7 +23,7 @@ Autonomous systems are just around the corner. Different from "automated" agents
 
 - ## Nonparametric Compressed Learning of Dynamical Systems:
 
-  - **B. Hou**, S. Sanjari, A. Koppel, S. Bose, "Compressed Online Learning of Conditional Mean Embedding". Under submission at COLT24 (Please email me for preprint)
+  - **B. Hou**, S. Sanjari, A. Koppel, S. Bose, "Compressed Online Learning of Conditional Mean Embedding". (Please email me for preprint)
  
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
 
