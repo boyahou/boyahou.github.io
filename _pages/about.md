@@ -14,8 +14,9 @@ Thanks for visiting! I am a final-year Ph.D. student in the ECE department at Un
 My CV can be found here (April 2024) [CV](../assets/BoyaCV.pdf).
 
 # News:
-April 2024: I'll be presenting my work at [the 10th Midwest Workshop on Control and Game Theory](https://mwcgt2024.northwestern.edu/) at Northwestern, 
-[Machine Learning and Dynamical Systems Seminar](https://www.turing.ac.uk/research/interest-groups/machine-learning-and-dynamical-systems) at the Alan Turing Institute, [the 4th Symposium on Machine Learning and Dynamical Systems](https://sites.google.com/site/boumedienehamzi/home/fourth-symposium-on-machine-learning-and-dynamical-systems) at the Fields Institute.
+April 2024: Invited to present at [Machine Learning and Dynamical Systems Seminar](https://www.turing.ac.uk/research/interest-groups/machine-learning-and-dynamical-systems) at the Alan Turing Institute, [the 4th Symposium on Machine Learning and Dynamical Systems](https://sites.google.com/site/boumedienehamzi/home/fourth-symposium-on-machine-learning-and-dynamical-systems) at the Fields Institute.
+
+April 2024: I'll present at [the 10th Midwest Workshop on Control and Game Theory](https://mwcgt2024.northwestern.edu/) at Northwestern. 
 
 # Research
 Autonomous systems are just around the corner. Different from "automated" agents that operate in a fixed world, "autonomous" ones should be able to conceptualize, reason, and act in changing environments without human intervention. How can autonomous agents understand the environment landscape? How to learn a representation of the environment such that knowledge can be transferred to related environments, and extrapolated to unknown environments? How could we control the complexity of such a representation? The goal of my research is to answer these questions. 
