@@ -41,9 +41,9 @@ Autonomous systems are just around the corner. Different from "automated" agents
 - ## Preparing Electrified Transportation:
    Electrification can help to reduce the carbon footprint of aviation. The transition away from the jet fuel-powered airplane towards battery-powered electrified aircraft will impose extra charging requirements on airports. In order to handle the impending electrification of commercial aviation, I study the interdependency of transportation (airlines) and the energy infrastructure at airports.
 
-  - **B. Hou**, S. Bose, L. Marla and K. Haran, “Impact of Aviation Electrification on Airports: Flight Scheduling and Charging”, IEEE Transactions on Intelligent Transportation Systems. [download](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10296862)
+  - (Preprint) **B. Hou**, S. Bose, L. Marla and K. Haran, “Impact of Aviation Electrification on Airports: Flight Scheduling and Charging”, IEEE Transactions on Intelligent Transportation Systems. [download](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10296862)
 
-  - **B. Hou**, S. Bose, and K. Haran, “Powering Electric Aircraft at O'Hare Airport: A Case Study”, presented at the IEEE Power and Energy Society General Meeting, 2020. [download](https://ieeexplore.ieee.org/abstract/document/9281871)
+  - (Preprint) **B. Hou**, S. Bose, and K. Haran, “Powering Electric Aircraft at O'Hare Airport: A Case Study”, presented at the IEEE Power and Energy Society General Meeting, 2020. [download](https://ieeexplore.ieee.org/abstract/document/9281871)
 
 # Awards
 - Rising Stars in EECS, 2023
