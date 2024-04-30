@@ -14,7 +14,7 @@ Thanks for visiting! I am a final-year Ph.D. student in the ECE department at Un
 My CV can be found here (April 2024) [CV](../assets/BoyaCV.pdf).
 
 # News:
-April 2024: Invited to present at [Machine Learning and Dynamical Systems Seminar](https://www.turing.ac.uk/research/interest-groups/machine-learning-and-dynamical-systems) at the Alan Turing Institute and [the 4th Symposium on Machine Learning and Dynamical Systems](https://sites.google.com/site/boumedienehamzi/home/fourth-symposium-on-machine-learning-and-dynamical-systems) at the Fields Institute.
+April 2024: Invited talk at [Machine Learning and Dynamical Systems Seminar](https://www.turing.ac.uk/research/interest-groups/machine-learning-and-dynamical-systems) at the Alan Turing Institute and [the 4th Symposium on Machine Learning and Dynamical Systems](https://sites.google.com/site/boumedienehamzi/home/fourth-symposium-on-machine-learning-and-dynamical-systems) at the Fields Institute.
 
 April 2024: I'll present at [the 10th Midwest Workshop on Control and Game Theory](https://mwcgt2024.northwestern.edu/) at Northwestern. 
 
