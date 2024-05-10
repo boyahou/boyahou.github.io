@@ -19,8 +19,6 @@ April 2024: Invited presentation at [Machine Learning and Dynamical Systems Semi
 April 2024: I'll present at [the 10th Midwest Workshop on Control and Game Theory](https://mwcgt2024.northwestern.edu/) at Northwestern. 
 
 # Research
-Autonomous systems are just around the corner. Different from "automated" agents that operate in a fixed world, "autonomous" ones should be able to conceptualize, reason, and act in changing environments without human intervention. How can autonomous agents understand the environment landscape? How to learn a representation of the environment such that knowledge can be transferred to related environments, and extrapolated to unknown environments? How could we control the complexity of such a representation? The goal of my research is to answer these questions. 
-
 
 - ## Nonparametric Compressed Learning of Dynamical Systems:
  
