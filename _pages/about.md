@@ -11,7 +11,6 @@ redirect_from:
 
 I am a final-year Ph.D. student in the ECE department at University of Illinois, Urbana-Champaign. I am fortunate to be advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received M.Eng. from UIUC and B.S. from Zhejiang University in 2019. 
 
-My CV can be found here (April 2024) [CV](../assets/BoyaCV.pdf).
 
 # News:
 April 2024: Invited presentation at [Machine Learning and Dynamical Systems Seminar](https://www.turing.ac.uk/research/interest-groups/machine-learning-and-dynamical-systems) at the Alan Turing Institute and [the 4th Symposium on Machine Learning and Dynamical Systems](https://sites.google.com/site/boumedienehamzi/home/fourth-symposium-on-machine-learning-and-dynamical-systems) at the Fields Institute.
