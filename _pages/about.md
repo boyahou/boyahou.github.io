@@ -33,7 +33,7 @@ April 2024: I'll present at [the 10th Midwest Workshop on Control and Game Theor
 
   - (Preprint) A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator”, under submission at the International Journal of Electrical Power and Energy Systems, 2024. [download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4805006)
  
-  - (Preprint) **B. Hou**, S. Sanjari, A. Koppel, S. Bose, "Compressed Online Learning of Conditional Distribution with Kernels". 
+  - (Preprint) **B. Hou**, S. Sanjari, A. Koppel, S. Bose, "Compressed Online Learning of Conditional Distribution with Kernels". [download](https://arxiv.org/abs/2405.07432)
 
 - ## Preparing Electrified Transportation:
    Electrification can help to reduce the carbon footprint of aviation. The transition away from the jet fuel-powered airplane towards battery-powered electrified aircraft will impose extra charging requirements on airports. In order to handle the impending electrification of commercial aviation, I study the interdependency of transportation (airlines) and the energy infrastructure at airports.
