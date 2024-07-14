@@ -30,7 +30,7 @@ Autonomous systems are just around the corner. Different from “automated” ag
     
   - **B. Hou**, S. Bose and U. Vaidya, “Sparse Learning of Kernel Transfer Operators”, in Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](https://ieeexplore.ieee.org/abstract/document/9723412)
 
-  - (Preprint) A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator”, under submission at the International Journal of Electrical Power and Energy Systems, 2024. [download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4805006)
+  - (Preprint) A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator”, under revision at the International Journal of Electrical Power and Energy Systems, 2024. [download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4805006)
  
   - (Preprint) **B. Hou**, S. Sanjari, A. Koppel, S. Bose, "Compressed Online Learning of Conditional Distribution with Kernels". [download](https://arxiv.org/abs/2405.07432)
 
@@ -48,6 +48,17 @@ Autonomous systems are just around the corner. Different from “automated” ag
 - AAAI Student Scholarship, 2023
 - The second-place winner in the United States Association for Energy Economics (USAEE) Case Competition, 2019.
 - UCLA Cross-disciplinary Scholars in Science and Technology (CSST) Scholarship, 2017
+
+# Invited Presentations
+- July 2024, Fields Institute, The 4th Symposium on Machine Learning and Dynamical Systems.
+- May 2024, Alan Turing Institute, Machine Learning and Dynamical Systems Seminar.
+- April 2024, Northwestern, the 10th Midwest Workshop on Control and Game Theory.
+- April 2024, UIUC, group meeting of Prof. R.Srikant and Prof. Carolyn Beck.
+- March. 2024, MIT, group meeting of Prof. Navid Azizan.          				
+- Feb. 2024, Georgia Tech, Algorithms and Randomness Center (ARC) colloquium. 
+- Nov.2023, Georgia Tech, EECS Rising Stars Workshop.
+- Nov. 2023, University of Illinois, Urbana-Champaign, Grad Seminar in Special Topics.
+
 
 # Teaching
 Fall 2021, Teaching Assistant, ECE 365 Data Science and Engineering, UIUC.
