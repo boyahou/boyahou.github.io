@@ -50,14 +50,15 @@ Autonomous systems are just around the corner. Different from “automated” ag
 - UCLA Cross-disciplinary Scholars in Science and Technology (CSST) Scholarship, 2017
 
 # Invited Presentations
-- July 2024, Fields Institute, The 4th Symposium on Machine Learning and Dynamical Systems.
+- (Upcoming) September 2024, Sandia National Laboratories, Sandia Machine Learning and Deep Learning (MLDL) Workshop.
+- July 2024, Fields Institute, the 4th Symposium on Machine Learning and Dynamical Systems.
 - May 2024, Alan Turing Institute, Machine Learning and Dynamical Systems Seminar.
 - April 2024, Northwestern, the 10th Midwest Workshop on Control and Game Theory.
 - April 2024, UIUC, group meeting of Prof. R.Srikant and Prof. Carolyn Beck.
-- March. 2024, MIT, group meeting of Prof. Navid Azizan.          				
-- Feb. 2024, Georgia Tech, Algorithms and Randomness Center (ARC) colloquium. 
-- Nov.2023, Georgia Tech, EECS Rising Stars Workshop.
-- Nov. 2023, University of Illinois, Urbana-Champaign, Grad Seminar in Special Topics.
+- March 2024, MIT, group meeting of Prof. Navid Azizan.          				
+- Febburary 2024, Georgia Tech, Algorithms and Randomness Center (ARC) colloquium. 
+- November 2023, Georgia Tech, EECS Rising Stars Workshop.
+- November 2023, University of Illinois, Urbana-Champaign, Grad Seminar in Special Topics.
 
 
 # Teaching
