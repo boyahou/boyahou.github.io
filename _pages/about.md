@@ -18,7 +18,7 @@ My CV can be found here (April 2024) [CV](../assets/BoyaCV.pdf).
 
 Autonomous systems are just around the corner. Different from “automated” agents that operate in a fixed world, “autonomous” ones should be able to conceptualize, reason, and act in changing environments without human intervention. How can autonomous agents understand the environment landscape? How to learn a representation of the environment such that knowledge can be transferred to related environments, and extrapolated to unknown environments? How could we control the complexity of such a representation? The goal of my research is to answer these questions. 
 
-- ## Nonparametric Compressed Learning of Dynamical Systems:
+- ## Nonparametric Sparse Learning of Dynamical Systems:
 
  - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", Physica D: Nonlinear Phenomena. Special issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024. [download](https://doi.org/10.1016/j.physd.2024.134168)
     
