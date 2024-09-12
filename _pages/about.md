@@ -48,7 +48,7 @@ Autonomous systems are just around the corner. Different from “automated” ag
 - UCLA Cross-disciplinary Scholars in Science and Technology (CSST) Scholarship, 2017
 
 # Invited Presentations
-- September 2024, Sandia National Laboratories, Sandia Machine Learning and Deep Learning (MLDL) Workshop.
+- September 2024, Sandia National Laboratories, Sandia Machine Learning and Deep Learning (MLDL) Workshop. [slide](../assets/sandia.pdf) [recording](../assets/MLDL_Boya.mp4)
 - July 2024, Fields Institute, the 4th Symposium on Machine Learning and Dynamical Systems.
 - May 2024, Alan Turing Institute, Machine Learning and Dynamical Systems Seminar.
 - April 2024, Northwestern, the 10th Midwest Workshop on Control and Game Theory.
