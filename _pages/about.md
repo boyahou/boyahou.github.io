@@ -18,27 +18,34 @@ Autonomous systems are just around the corner. Different from “automated” ag
 
 - ## Nonparametric Sparse Learning of Dynamical Systems:
 
+ - “Data-Driven Transient Stability Analysis Using the Koopman Operator”, to appear at the International Journal of Electrical Power and Energy Systems, 2024. [download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4805006)
+   A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya
 
- - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya, “Data-Driven Transient Stability Analysis Using the Koopman Operator”, to appear at the International Journal of Electrical Power and Energy Systems, 2024. [download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4805006)
-
- - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya, "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", Physica D: Nonlinear Phenomena. Special issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024. [download](https://doi.org/10.1016/j.physd.2024.134168)
+ - "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", Physica D: Nonlinear Phenomena. Special issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024. [download](https://doi.org/10.1016/j.physd.2024.134168)
+   **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya
     
     Also presented as a poster paper at the American Control Conference (ACC) 2023.
  
-  - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya, “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
+  - “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
+    **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya
 
-  - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, “Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space”, in Proceedings of the 37th Association for the Advancement of Artificial Intelligence (AAAI) Conference on Artificial Intelligence, 2023. [download](https://ojs.aaai.org/index.php/AAAI/article/view/25956)
+  - “Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space”, in Proceedings of the 37th Association for the Advancement of Artificial Intelligence (AAAI) Conference on Artificial Intelligence, 2023. [download](https://ojs.aaai.org/index.php/AAAI/article/view/25956)
+    **B. Hou**, S. Sanjari, N. Dahlin, S. Bose
     
-  - **B. Hou**, S. Bose and U. Vaidya, “Sparse Learning of Kernel Transfer Operators”, in Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](https://ieeexplore.ieee.org/abstract/document/9723412)
+  - “Sparse Learning of Kernel Transfer Operators”, in Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](https://ieeexplore.ieee.org/abstract/document/9723412)
+    **B. Hou**, S. Bose and U. Vaidya
  
-  - (Preprint) **B. Hou**, S. Sanjari, A. Koppel, S. Bose, "Compressed Online Learning of Conditional Distribution with Kernels". [download](https://arxiv.org/abs/2405.07432)
+  - (Preprint) "Compressed Online Learning of Conditional Distribution with Kernels". [download](https://arxiv.org/abs/2405.07432)
+    **B. Hou**, S. Sanjari, A. Koppel, S. Bose
 
 - ## Preparing Electrified Transportation:
    Electrification can help to reduce the carbon footprint of aviation. The transition away from the jet fuel-powered airplane towards battery-powered electrified aircraft will impose extra charging requirements on airports. In order to handle the impending electrification of commercial aviation, I study the interdependency of transportation (airlines) and the energy infrastructure at airports.
 
-  -  **B. Hou**, S. Bose, L. Marla and K. Haran, “Impact of Aviation Electrification on Airports: Flight Scheduling and Charging”, IEEE Transactions on Intelligent Transportation Systems, 2023. [download](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10296862)
+  - “Impact of Aviation Electrification on Airports: Flight Scheduling and Charging”, IEEE Transactions on Intelligent Transportation Systems, 2023. [download](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10296862)
+    **B. Hou**, S. Bose, L. Marla, K. Haran
 
-  -  **B. Hou**, S. Bose, and K. Haran, “Powering Electric Aircraft at O'Hare Airport: A Case Study”, presented at the IEEE Power and Energy Society General Meeting, 2020. [download](https://ieeexplore.ieee.org/abstract/document/9281871)
+  - “Powering Electric Aircraft at O'Hare Airport: A Case Study”, presented at the IEEE Power and Energy Society General Meeting, 2020. [download](https://ieeexplore.ieee.org/abstract/document/9281871)
+    **B. Hou**, S. Bose, K. Haran
 
 # Awards
 - Rising Stars in EECS, 2023
