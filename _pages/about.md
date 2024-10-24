@@ -18,7 +18,7 @@ Autonomous systems are just around the corner. Different from “automated” ag
 
 - ## Nonparametric Sparse Learning of Dynamical Systems:
 
-  - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya. “Data-Driven Transient Stability Analysis Using the Koopman Operator”, to appear at the International Journal of Electrical Power and Energy Systems, 2024. [download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4805006)
+  - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya. “Data-Driven Transient Stability Analysis Using the Koopman Operator”, to appear in the International Journal of Electrical Power and Energy Systems, 2024. [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1)
 
   - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya. "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", Physica D: Nonlinear Phenomena. Special issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024. [download](https://doi.org/10.1016/j.physd.2024.134168)
  
@@ -50,6 +50,7 @@ Autonomous systems are just around the corner. Different from “automated” ag
 - UCLA Cross-disciplinary Scholars in Science and Technology (CSST) Scholarship, 2017
 
 # Invited Presentations
+- October 2024, Informs
 - October 2024, Young Research's Workshop, Cornell ORIE. 
 - September 2024, Sandia National Laboratories, Sandia Machine Learning and Deep Learning (MLDL) Workshop. [slide](../assets/sandia.pdf) [recording](../assets/MLDL_Boya.mp4)
 - July 2024, Fields Institute, the 4th Symposium on Machine Learning and Dynamical Systems.
