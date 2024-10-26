@@ -14,8 +14,6 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 
 # Research
 
-Autonomous systems are just around the corner. Different from “automated” agents that operate in a fixed world, “autonomous” ones should be able to conceptualize, reason, and act in changing environments without human intervention. How can autonomous agents understand the environment landscape? How to learn a representation of the environment such that knowledge can be transferred to related environments, and extrapolated to unknown environments? How could we control the complexity of such a representation? The goal of my research is to answer these questions. 
-
 - ## Nonparametric Sparse Learning of Dynamical Systems:
 
   - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya. “Data-Driven Transient Stability Analysis Using the Koopman Operator”, to appear in the International Journal of Electrical Power and Energy Systems, 2024. [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1)
@@ -52,7 +50,7 @@ Autonomous systems are just around the corner. Different from “automated” ag
 # Invited Presentations
 - October 2024, Informs
 - October 2024, Young Research's Workshop, Cornell ORIE. 
-- September 2024, Sandia National Laboratories, Sandia Machine Learning and Deep Learning (MLDL) Workshop. [slide](../assets/sandia.pdf) [recording](../assets/MLDL_Boya.mp4)
+- September 2024, Sandia National Laboratories, Sandia Machine Learning and Deep Learning (MLDL) Workshop. [recording](../assets/MLDL_Boya.mp4)
 - July 2024, Fields Institute, the 4th Symposium on Machine Learning and Dynamical Systems.
 - May 2024, Alan Turing Institute, Machine Learning and Dynamical Systems Seminar.
 - April 2024, Northwestern, the 10th Midwest Workshop on Control and Game Theory.
