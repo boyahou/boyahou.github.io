@@ -16,7 +16,7 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 
 - ## Nonparametric Sparse Learning of Dynamical Systems:
 
-  - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya. “Data-Driven Transient Stability Analysis Using the Koopman Operator”, to appear in the International Journal of Electrical Power and Energy Systems, 2024. [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1)
+  - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya. “Data-Driven Transient Stability Analysis Using the Koopman Operator”, International Journal of Electrical Power and Energy Systems, 2024. [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1)
 
   - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya. "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", Physica D: Nonlinear Phenomena. Special issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024. [download](https://doi.org/10.1016/j.physd.2024.134168)
  
