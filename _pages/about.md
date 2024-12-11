@@ -40,7 +40,7 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
    
 
 # Awards
-- Best poster award, Power Systems Engineering Research Center (PSERC), December 2024.
+- Best Poster Award, Power Systems Engineering Research Center (PSERC), December 2024.
 - Rising Stars in EECS, 2023
 - M.A.Pai Scholarship, 2023
 -	Mavis Future Faculty Fellows (MF3), 2023-2024
