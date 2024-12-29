@@ -52,7 +52,7 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 - December 2024, Power Systems Engineering Research Center Industry Advisory Board (PSERC IAB) Meeting. (Poster)
 - October 2024, INFORMS Annual Meeting.
 - October 2024, Young Research's Workshop, Cornell ORIE. (Poster)
-- September 2024, Sandia National Laboratories, Sandia Machine Learning and Deep Learning (MLDL) Workshop. [recording](../assets/MLDL_Boya.mp4)
+- September 2024, Sandia National Laboratories, Sandia Machine Learning and Deep Learning (MLDL) Workshop.
 - July 2024, Fields Institute, the 4th Symposium on Machine Learning and Dynamical Systems. (Poster)
 - May 2024, Alan Turing Institute, Machine Learning and Dynamical Systems Seminar.
 - April 2024, Northwestern, the 10th Midwest Workshop on Control and Game Theory.
