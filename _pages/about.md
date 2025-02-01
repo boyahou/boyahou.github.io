@@ -16,7 +16,7 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 
 - ## Nonparametric Sparse Learning of Dynamical Systems:
 
-  - **B. Hou**, S. Sanjari, A. Koppel, S. Bose. "Compressed Online Learning of Conditional Distribution with Kernels". [download]((https://arxiv.org/pdf/2501.16489)
+  - **B. Hou**, S. Sanjari, A. Koppel, S. Bose. "Nonparametric Sparse Online Learning of the Koopman Operator". [download]((https://arxiv.org/pdf/2501.16489)
     
   - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya. “Data-Driven Transient Stability Analysis Using the Koopman Operator”, International Journal of Electrical Power and Energy Systems, 2024. [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1) 
 
