@@ -16,7 +16,7 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 
 - ## Nonparametric Sparse Learning of Dynamical Systems:
 
-  - **B. Hou**, S. Sanjari, A. Koppel, S. Bose. "Nonparametric Sparse Online Learning of the Koopman Operator". [download](https://arxiv.org/pdf/2501.16489)
+  - (Preprint) **B. Hou**, S. Sanjari, N.Dahlin, A. Koppel, S. Bose. "Nonparametric Sparse Online Learning of the Koopman Operator". [download](https://arxiv.org/pdf/2501.16489)
     
   - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya. “Data-Driven Transient Stability Analysis Using the Koopman Operator”, International Journal of Electrical Power and Energy Systems, 2024. [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1) 
 
@@ -30,7 +30,6 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
     
   - **B. Hou**, S. Bose and U. Vaidya. “Sparse Learning of Kernel Transfer Operators”, in Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](https://ieeexplore.ieee.org/abstract/document/9723412)
  
-  - (Preprint) **B. Hou**, S. Sanjari, A. Koppel, S. Bose. "Compressed Online Learning of Conditional Distribution with Kernels". [download](https://arxiv.org/abs/2405.07432)
 
 - ## Preparing Electrified Transportation:
    Electrification can help to reduce the carbon footprint of aviation. The transition away from the jet fuel-powered airplane towards battery-powered electrified aircraft will impose extra charging requirements on airports. In order to handle the impending electrification of commercial aviation, I study the interdependency of transportation (airlines) and the energy infrastructure at airports.
