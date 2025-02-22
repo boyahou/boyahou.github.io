@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Boya Hou"
-#description              : &description "PhD Candidate (UIUC)"
+description              : &description "Postdoc at UIUC"
 url                      : https://boyahou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "boyahou/boyahou.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Boya Hou (侯博雅)"
   avatar           : "boya FA23.jpeg"
-  bio              : #"PhD candidate"
+  bio              : "Postdoc"
   location         : "Champaign-Urbana, IL"
  # employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
