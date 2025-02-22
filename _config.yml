@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Boya Hou (侯博雅)"
   avatar           : "boya FA23.jpeg"
-  #bio              : "PhD candidate"
+  bio              : #"PhD candidate"
   location         : "Champaign-Urbana, IL"
  # employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
