@@ -17,14 +17,16 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 - ## Nonparametric Learning of Dynamical Systems:
 
   - (Preprint) **B. Hou**, S. Sanjari, N.Dahlin, A. Koppel, S. Bose. "Nonparametric Sparse Online Learning of the Koopman Operator". [download](https://arxiv.org/abs/2405.07432)
+
+  - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
+
+  - J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya. “Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator”, accepted at Physica D: Nonlinear Phenomena, 2025.
     
   - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya. “Data-Driven Transient Stability Analysis Using the Koopman Operator”, International Journal of Electrical Power and Energy Systems, 2024. [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1) 
 
   - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya. "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", Physica D: Nonlinear Phenomena. Special issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024. [download](https://doi.org/10.1016/j.physd.2024.134168)
  
      Also presented as a poster paper at the American Control Conference (ACC) 2023.
- 
-  - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose. “Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space”, in Proceedings of the 37th Association for the Advancement of Artificial Intelligence (AAAI) Conference on Artificial Intelligence, 2023. [download](https://ojs.aaai.org/index.php/AAAI/article/view/25956) 
     
