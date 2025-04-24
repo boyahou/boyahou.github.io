@@ -20,7 +20,7 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
 
-  - J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya. “Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator”, accepted at Physica D: Nonlinear Phenomena, 2025.
+  - J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya. “Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator”, Physica D: Nonlinear Phenomena, 2025.
     
   - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya. “Data-Driven Transient Stability Analysis Using the Koopman Operator”, International Journal of Electrical Power and Energy Systems, 2024. [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1) 
 
