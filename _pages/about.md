@@ -32,7 +32,7 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
     
   - **B. Hou**, S. Bose and U. Vaidya. “Sparse Learning of Kernel Transfer Operators”, in Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](https://ieeexplore.ieee.org/abstract/document/9723412)
  
-- ## Modeling Gene Expression Dynamics:
+- ## Modeling and Inference of Gene Expression Dynamics:
   - **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic, "Multi Network RNA Velocity", National Institute for Theory and Mathematics in Biology (NITMB) MathBio Convergence Conference, 2025.
   
 - ## Preparing Electrified Transportation:
