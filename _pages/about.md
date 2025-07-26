@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://maxim.ece.illinois.edu/) and Prof. [Olgica Milenkovic](https://publish.illinois.edu/milenkovic/) at University of Illinois, Urbana-Champaign. I obtained my Ph.D in Electrical and Computer Engineering at UIUC, advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received B.Eng. from Zhejiang University. 
+I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://maxim.ece.illinois.edu/) and Prof. [Olgica Milenkovic](https://publish.illinois.edu/milenkovic/) at the University of Illinois, Urbana-Champaign. I obtained my Ph.D in Electrical and Computer Engineering at UIUC, advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received B.Eng. in Electrical Engineering from Zhejiang University. 
 
 
 # Research
