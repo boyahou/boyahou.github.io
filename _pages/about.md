@@ -33,7 +33,7 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
   - **B. Hou**, S. Bose and U. Vaidya. “Sparse Learning of Kernel Transfer Operators”, in Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](https://ieeexplore.ieee.org/abstract/document/9723412)
  
 - ## Modeling and Inference of Gene Expression Dynamics:
-  - **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic, "Multi Network RNA Velocity", National Institute for Theory and Mathematics in Biology (NITMB) MathBio Convergence Conference, 2025.
+  - **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic, "Multi Network RNA Velocity", National Institute for Theory and Mathematics in Biology (NITMB) MathBio Convergence Conference, 2025. [Slide](../assets/RNA velocity_boya.pdf)
   
 - ## Preparing Electrified Transportation:
    Electrification can help to reduce the carbon footprint of aviation. The transition away from the jet fuel-powered airplane towards battery-powered electrified aircraft will impose extra charging requirements on airports. In order to handle the impending electrification of commercial aviation, I study the interdependency of transportation (airlines) and the energy infrastructure at airports.
