@@ -14,7 +14,7 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 
 # Research
 
-- ## Nonparametric Learning of Dynamical Systems:
+- ## Data-Driven Modeling and Control for Nonlinear Systems:
 
   - (Preprint) **B. Hou**, S. Sanjari, N.Dahlin, A. Koppel, S. Bose. "Nonparametric Sparse Online Learning of the Koopman Operator". [download](https://arxiv.org/abs/2405.07432)
 
