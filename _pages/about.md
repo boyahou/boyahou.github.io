@@ -14,7 +14,18 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 
 # Research
 
+My research seeks to redefine modeling for autonomy by uniting the rigor of systems and control theory with advances in modern machine learning. I develop data-driven representations of dynamical systems that incorporate prior structure while enabling adaptation to complex and uncertain environments.
+
+- ## Selective Publications:
+
+  - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
+
+  - (Preprint) **B. Hou**, S. Sanjari, N.Dahlin, A. Koppel, S. Bose. "Nonparametric Sparse Online Learning of the Koopman Operator". [download](https://arxiv.org/abs/2405.07432)
+    
 - ## Data-Driven Modeling and Control for Nonlinear Systems:
+
+  - (Preprint) **B. Hou**, M. Raginsky. A Behavioral Perspective on Subspace and Interpolation Methods for Simulation of Linear Time-Invariant Systems.
+
 
   - (Preprint) **B. Hou**, S. Sanjari, N.Dahlin, A. Koppel, S. Bose. "Nonparametric Sparse Online Learning of the Koopman Operator". [download](https://arxiv.org/abs/2405.07432)
 
@@ -32,7 +43,7 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
     
   - **B. Hou**, S. Bose and U. Vaidya. “Sparse Learning of Kernel Transfer Operators”, in Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](https://ieeexplore.ieee.org/abstract/document/9723412)
  
-- ## Modeling and Inference of Gene Expression Dynamics:
+- ## Analysis and Control of Spatially Coupled Network RNA Velocity:
   - **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic, "Multi Network RNA Velocity", National Institute for Theory and Mathematics in Biology (NITMB) MathBio Convergence Conference, 2025. [Slide](../assets/NITMB25_boya.pdf) 
   
 - ## Preparing Electrified Transportation:
