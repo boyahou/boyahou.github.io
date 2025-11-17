@@ -66,23 +66,28 @@ My research seeks to redefine modeling for autonomy by uniting the rigor of syst
 - The second-place winner in the United States Association for Energy Economics (USAEE) Case Competition, 2019.
 - UCLA Cross-disciplinary Scholars in Science and Technology (CSST) Scholarship, 2017
 
-# Invited Presentations
-- December 2024, Power Systems Engineering Research Center Industry Advisory Board (PSERC IAB) Meeting. (Poster)
+# Presentations
+- National Institute for Theory and Mathematics in Biology (NITMB) MathBio Convergence Conference, 2025
+- December 2024, Power Systems Engineering Research Center Industry Advisory Board (PSERC IAB) Meeting.
 - October 2024, INFORMS Annual Meeting.
-- October 2024, Young Research's Workshop, Cornell ORIE. (Poster)
+- October 2024, Young Research's Workshop, Cornell ORIE. 
 - September 2024, Sandia National Laboratories, Sandia Machine Learning and Deep Learning (MLDL) Workshop.
-- July 2024, Fields Institute, the 4th Symposium on Machine Learning and Dynamical Systems. (Poster)
+- July 2024, Fields Institute, the 4th Symposium on Machine Learning and Dynamical Systems. 
 - May 2024, Alan Turing Institute, Machine Learning and Dynamical Systems Seminar.
 - April 2024, Northwestern, the 10th Midwest Workshop on Control and Game Theory.
 - April 2024, UIUC, group meeting of Prof. R. Srikant and Prof. Carolyn Beck.
 - March 2024, MIT, group meeting of Prof. Navid Azizan.          				
-- Febburary 2024, Georgia Tech, Algorithms and Randomness Center (ARC) colloquium. 
+- February 2024, Georgia Tech, Algorithms and Randomness Center (ARC) colloquium. 
 - November 2023, Georgia Tech, EECS Rising Stars Workshop.
 - November 2023, University of Illinois, Urbana-Champaign, Grad Seminar in Special Topics.
 
 
 # Teaching
 Fall 2021, Teaching Assistant, ECE 365 Data Science and Engineering, UIUC.
+Fall 2023, Organized and taught weekly reading group on Learning in Games, UIUC.
+Summer 2021, Organized and taught weekly reading group on Functional and Operator-Theoretic Foundation of Learning
+
+
 
 # Fun
 Outside of mathematics and engineering, I pursue my passion for dancing. I performed contemporary ballet and dance of the Han-Tang dynasties (a subcategory of Classical Chinese Dance) with Champaign Park District and Zhejiang Wenqin Art Troupe. 
