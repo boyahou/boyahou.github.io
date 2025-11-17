@@ -67,7 +67,7 @@ My research seeks to redefine modeling for autonomy by uniting the rigor of syst
 - UCLA Cross-disciplinary Scholars in Science and Technology (CSST) Scholarship, 2017
 
 # Presentations
-- National Institute for Theory and Mathematics in Biology (NITMB) MathBio Convergence Conference, 2025
+- August 2025, National Institute for Theory and Mathematics in Biology (NITMB) MathBio Convergence Conference
 - December 2024, Power Systems Engineering Research Center Industry Advisory Board (PSERC IAB) Meeting.
 - October 2024, INFORMS Annual Meeting.
 - October 2024, Young Research's Workshop, Cornell ORIE. 
@@ -83,9 +83,9 @@ My research seeks to redefine modeling for autonomy by uniting the rigor of syst
 
 
 # Teaching
-Fall 2021, Teaching Assistant, ECE 365 Data Science and Engineering, UIUC.
-Fall 2023, Organized and taught weekly reading group on Learning in Games, UIUC.
-Summer 2021, Organized and taught weekly reading group on Functional and Operator-Theoretic Foundation of Learning
+- Fall 2021, Teaching Assistant, ECE 365 Data Science and Engineering, UIUC.
+- Fall 2023, Organized and taught weekly reading group on Learning in Games, UIUC.
+- Summer 2021, Organized and taught weekly reading group on Functional and Operator-Theoretic Foundation of Learning
 
 
 
