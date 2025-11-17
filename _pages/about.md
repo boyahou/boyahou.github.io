@@ -22,10 +22,7 @@ My research seeks to redefine modeling for autonomy by uniting the rigor of syst
 
   - (Preprint) **B. Hou**, S. Sanjari, N.Dahlin, A. Koppel, S. Bose. "Nonparametric Sparse Online Learning of the Koopman Operator". [download](https://arxiv.org/abs/2405.07432)
     
-- ## Data-Driven Modeling and Control for Nonlinear Systems:
-
-  - (Preprint) **B. Hou**, M. Raginsky. A Behavioral Perspective on Subspace and Interpolation Methods for Simulation of Linear Time-Invariant Systems.
-
+- ## An Operator-Theoretic Perspective for Learning Nonlinear Systems:
 
   - (Preprint) **B. Hou**, S. Sanjari, N.Dahlin, A. Koppel, S. Bose. "Nonparametric Sparse Online Learning of the Koopman Operator". [download](https://arxiv.org/abs/2405.07432)
 
@@ -42,7 +39,11 @@ My research seeks to redefine modeling for autonomy by uniting the rigor of syst
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose. “Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space”, in Proceedings of the 37th Association for the Advancement of Artificial Intelligence (AAAI) Conference on Artificial Intelligence, 2023. [download](https://ojs.aaai.org/index.php/AAAI/article/view/25956) 
     
   - **B. Hou**, S. Bose and U. Vaidya. “Sparse Learning of Kernel Transfer Operators”, in Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](https://ieeexplore.ieee.org/abstract/document/9723412)
- 
+
+- ## Behavioral Approach for Controlled Systems Beyond Linearity:
+
+  - (Preprint) **B. Hou**, M. Raginsky. A Behavioral Perspective on Subspace and Interpolation Methods for Simulation of Linear Time-Invariant Systems.
+
 - ## Analysis and Control of Spatially Coupled Network RNA Velocity:
   - **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic, "Multi Network RNA Velocity", National Institute for Theory and Mathematics in Biology (NITMB) MathBio Convergence Conference, 2025. [Slide](../assets/NITMB25_boya.pdf) 
   
