@@ -92,8 +92,6 @@ My research seeks to redefine modeling for autonomy by uniting the rigor of syst
 # Fun
 Outside of mathematics and engineering, I pursue my passion for dancing. I performed contemporary ballet and dance of the Han-Tang dynasties (a subcategory of Classical Chinese Dance) with Champaign Park District and Zhejiang Wenqin Art Troupe. 
 
-<img src="../assets/dance.jpeg" title="Photo by Darren King." width="650" height="650"  >
-
 
 
 
