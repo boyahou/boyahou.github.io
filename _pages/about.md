@@ -58,7 +58,7 @@ My research seeks to redefine modeling for autonomy by uniting the rigor of syst
  
     
 # Awards
-- Best Poster Award, Power Systems Engineering Research Center (PSERC), 2024.
+- Best Poster Award, Power Systems Engineering Research Center (PSERC), 2024
 - Rising Stars in EECS, 2023
 - M.A.Pai Scholarship, 2023
 -	Mavis Future Faculty Fellows (MF3), 2023-2024
