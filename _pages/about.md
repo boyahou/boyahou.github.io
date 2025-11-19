@@ -63,7 +63,7 @@ My research seeks to redefine modeling for autonomy by uniting the rigor of syst
 - M.A.Pai Scholarship, 2023
 -	Mavis Future Faculty Fellows (MF3), 2023-2024
 - AAAI Student Scholarship, 2023
-- The second-place winner in the United States Association for Energy Economics (USAEE) Case Competition, 2019.
+- The second-place winner in the United States Association for Energy Economics (USAEE) Case Competition, 2019
 - UCLA Cross-disciplinary Scholars in Science and Technology (CSST) Scholarship, 2017
 
 # Presentations
@@ -85,8 +85,9 @@ My research seeks to redefine modeling for autonomy by uniting the rigor of syst
 # Teaching
 - Fall 2021, Teaching Assistant, ECE 365 Data Science and Engineering, UIUC.
 - Fall 2023, Organized and taught weekly reading group on Learning in Games, UIUC.
-- Summer 2021, Organized and taught weekly reading group on Functional and Operator-Theoretic Foundation of Learning
+- Summer 2021, Organized and taught weekly reading group on Functional and Operator-Theoretic Foundation of Learning.
 
 
 # Fun
 Outside of mathematics and engineering, I pursue my passion for dancing. I performed contemporary ballet and dance of the Han-Tang dynasties (a subcategory of Classical Chinese Dance) with Champaign Park District and Zhejiang Wenqin Art Troupe. 
+[View rehearsal photos →](/dance/)
