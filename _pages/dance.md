@@ -15,7 +15,7 @@ Below are a few photos from rehearsals and performances.
 <!-- Smaller, horizontal, centered image gallery -->
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-top: 20px;">
   <img src="/images/dance1.jpg" alt="Dance rehearsal 1"
-       style="width: 250px; height: auto; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+       style="width: 250px; height: 280px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
 
   <img src="/images/dance2.jpg" alt="Dance rehearsal 2"
        style="width: 250px; height: auto; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
