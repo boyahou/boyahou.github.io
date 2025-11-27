@@ -16,15 +16,13 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 
 My research seeks to redefine modeling for autonomy by uniting the rigor of systems and control theory with advances in modern machine learning. I develop data-driven representations of dynamical systems that incorporate prior structure while enabling adaptation to complex and uncertain environments.
 
-- ## Selective Publications:
+- ## Monograph
 
-  - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
-
-  - (Preprint) **B. Hou**, S. Sanjari, N.Dahlin, A. Koppel, S. Bose. "Nonparametric Sparse Online Learning of the Koopman Operator". [download](https://arxiv.org/abs/2405.07432)
-    
+    **B. Hou**, S. Bose, N. Dahlin, U. Vaidya. Kernel Method for Learning Dynamical Systems. (Please email me for sample chapters.)
+ 
 - ## An Operator-Theoretic Perspective for Learning Nonlinear Systems:
 
-  - (Preprint) **B. Hou**, S. Sanjari, N.Dahlin, A. Koppel, S. Bose. "Nonparametric Sparse Online Learning of the Koopman Operator". [download](https://arxiv.org/abs/2405.07432)
+  - **B. Hou**, S. Sanjari, N.Dahlin, A. Koppel, S. Bose. "Nonparametric Sparse Online Learning of the Koopman Operator". [download](https://arxiv.org/abs/2405.07432)
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
 
@@ -44,7 +42,7 @@ My research seeks to redefine modeling for autonomy by uniting the rigor of syst
 
 - ## Behavioral Approach for Controlled Systems Beyond Linearity:
 
-  - (Preprint) **B. Hou**, M. Raginsky. A Behavioral Perspective on Subspace and Interpolation Methods for Simulation of Linear Time-Invariant Systems.
+  -  **B. Hou**, M. Raginsky. A Behavioral Perspective on Subspace and Interpolation Methods for Simulation of Linear Time-Invariant Systems. [download](../assets/ACC26.pdf)
   
 - ## Preparing Electrified Transportation:
    Electrification can help to reduce the carbon footprint of aviation. The transition away from the jet fuel-powered airplane towards battery-powered electrified aircraft will impose extra charging requirements on airports. In order to handle the impending electrification of commercial aviation, I study the interdependency of transportation (airlines) and the energy infrastructure at airports.
