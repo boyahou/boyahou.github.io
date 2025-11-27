@@ -26,9 +26,9 @@ My research seeks to redefine modeling for autonomy by unifying modern machine l
 
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
 
-  - J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya. “Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator”, Physica D: Nonlinear Phenomena, 2025.
+  - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose. “Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space”, in Proceedings of the 37th Association for the Advancement of Artificial Intelligence (AAAI) Conference on Artificial Intelligence, 2023. [download](https://ojs.aaai.org/index.php/AAAI/article/view/25956)
 
-  - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose. “Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space”, in Proceedings of the 37th Association for the Advancement of Artificial Intelligence (AAAI) Conference on Artificial Intelligence, 2023. [download](https://ojs.aaai.org/index.php/AAAI/article/view/25956) 
+  - J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya. “Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator”, Physica D: Nonlinear Phenomena, 2025. [download](https://www.sciencedirect.com/science/article/abs/pii/S0167278925001411)
     
   - **B. Hou**, S. Bose and U. Vaidya. “Sparse Learning of Kernel Transfer Operators”, in Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](https://ieeexplore.ieee.org/abstract/document/9723412)
 
