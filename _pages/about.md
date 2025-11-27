@@ -14,7 +14,7 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 
 # Research
 
-My research seeks to redefine modeling for autonomy by uniting the rigor of systems and control theory with advances in modern machine learning. I develop data-driven representations of dynamical systems that incorporate prior structure while enabling adaptation to complex and uncertain environments.
+My research seeks to redefine modeling for autonomy by unifying modern machine learning with the rigor of systems and control theory. Drawing on tools from statistical learning theory, applied probability, operator theory, systems and control theory, and optimization, I develop theoretical frameworks and computational methods for data-driven representation and control of dynamical systems that learn from data and adapt to uncertain environments while remaining grounded in rigorous principles.
 
 - ## Monograph
 
