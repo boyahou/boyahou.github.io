@@ -25,7 +25,7 @@ My research seeks to redefine modeling for autonomy by unifying modern machine l
 
 - ## Monograph
 
-    **B. Hou**, S. Bose, N. Dahlin, U. Vaidya. Kernel Method for Learning Dynamical Systems. (Please email me for sample chapters.)
+   - **B. Hou**, S. Bose, N. Dahlin, U. Vaidya. Kernel Method for Learning Dynamical Systems. (Please email me for sample chapters.)
  
 - ## An Operator-Theoretic Perspective for Learning Nonlinear Systems:
 
