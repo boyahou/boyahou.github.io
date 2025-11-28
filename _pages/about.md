@@ -16,6 +16,13 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 
 My research seeks to redefine modeling for autonomy by unifying modern machine learning with the rigor of systems and control theory. Drawing on tools from statistical learning theory, applied probability, operator theory, systems and control theory, and optimization, I develop theoretical frameworks and computational methods for data-driven representation and control of dynamical systems that learn from data and adapt to uncertain environments while remaining grounded in rigorous principles.
 
+- ## Selected Publications:
+  - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
+    
+  - **B. Hou**, S. Sanjari, N.Dahlin, A. Koppel, S. Bose. "Nonparametric Sparse Online Learning of the Koopman Operator". [download](https://arxiv.org/abs/2405.07432)
+    
+  - **B. Hou**, M. Raginsky. A Behavioral Perspective on Subspace and Interpolation Methods for Simulation of Linear Time-Invariant Systems. [download](../assets/ACC26.pdf)
+
 - ## Monograph
 
     **B. Hou**, S. Bose, N. Dahlin, U. Vaidya. Kernel Method for Learning Dynamical Systems. (Please email me for sample chapters.)
