@@ -16,7 +16,7 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 
 My research seeks to redefine modeling for autonomy by unifying modern machine learning with the rigor of systems and control theory, with application to power systems and biology. Drawing on tools from statistical learning theory, applied probability, operator theory, systems and control theory, and optimization, I develop theoretical frameworks and computational methods for data-driven representation and control of dynamical systems that learn from data and adapt to uncertain environments while remaining grounded in rigorous principles.
 
-- ## Selective Publications:
+- ## Highlighted Publication:
   
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
 
