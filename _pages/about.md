@@ -14,14 +14,12 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 
 # Research
 
-My research seeks to redefine modeling for autonomy by unifying modern machine learning with the rigor of systems and control theory. Drawing on tools from statistical learning theory, applied probability, operator theory, systems and control theory, and optimization, I develop theoretical frameworks and computational methods for data-driven representation and control of dynamical systems that learn from data and adapt to uncertain environments while remaining grounded in rigorous principles.
+My research seeks to redefine modeling for autonomy by unifying modern machine learning with the rigor of systems and control theory, with application to power systems and biology. Drawing on tools from statistical learning theory, applied probability, operator theory, systems and control theory, and optimization, I develop theoretical frameworks and computational methods for data-driven representation and control of dynamical systems that learn from data and adapt to uncertain environments while remaining grounded in rigorous principles.
 
 - ## Selected Publications:
   - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. “Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach”, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
     
   - **B. Hou**, S. Sanjari, N.Dahlin, A. Koppel, S. Bose. "Nonparametric Sparse Online Learning of the Koopman Operator". [download](https://arxiv.org/abs/2405.07432)
-    
-  - **B. Hou**, M. Raginsky. A Behavioral Perspective on Subspace and Interpolation Methods for Simulation of Linear Time-Invariant Systems. [download](../assets/ACC26.pdf)
 
 - ## Monograph
 
@@ -39,24 +37,24 @@ My research seeks to redefine modeling for autonomy by unifying modern machine l
     
   - **B. Hou**, S. Bose and U. Vaidya. “Sparse Learning of Kernel Transfer Operators”, in Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](https://ieeexplore.ieee.org/abstract/document/9723412)
 
-  Application to Power Systems: 
+  **Application to Power Systems:** 
  
   - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya. “Data-Driven Transient Stability Analysis Using the Koopman Operator”, International Journal of Electrical Power and Energy Systems, 2024. [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1) 
 
   - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya. "Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space ", Physica D: Nonlinear Phenomena. Special issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024. [download](https://doi.org/10.1016/j.physd.2024.134168)
     
      Also presented as a poster paper at the American Control Conference (ACC) 2023.
-
-- ## Behavioral Approach for Controlled Systems Beyond Linearity:
-
-  -  **B. Hou**, M. Raginsky. A Behavioral Perspective on Subspace and Interpolation Methods for Simulation of Linear Time-Invariant Systems. [download](../assets/ACC26.pdf)
   
-- ## Preparing Electrified Transportation:
+- ## Preparing Power Grid for Electrified Transportation:
    Electrification can help to reduce the carbon footprint of aviation. The transition away from the jet fuel-powered airplane towards battery-powered electrified aircraft will impose extra charging requirements on airports. In order to handle the impending electrification of commercial aviation, I study the interdependency of transportation (airlines) and the energy infrastructure at airports.
 
   - **B. Hou**, S. Bose, L. Marla, K. Haran. “Impact of Aviation Electrification on Airports: Flight Scheduling and Charging”, IEEE Transactions on Intelligent Transportation Systems, 2023. [download](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10296862)
 
   - **B. Hou**, S. Bose, K. Haran. “Powering Electric Aircraft at O'Hare Airport: A Case Study”, presented at the IEEE Power and Energy Society General Meeting, 2020. [download](https://ieeexplore.ieee.org/abstract/document/9281871)
+ 
+- ## Behavioral Approach for Controlled Systems Beyond Linearity:
+
+  -  **B. Hou**, M. Raginsky. A Behavioral Perspective on Subspace and Interpolation Methods for Simulation of Linear Time-Invariant Systems. [download](../assets/ACC26.pdf)
    
 - ## Analysis and Control of Spatially Coupled Network RNA Velocity:
   - **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic, "Multi Network RNA Velocity", National Institute for Theory and Mathematics in Biology (NITMB) MathBio Convergence Conference, 2025. [Slide](../assets/NITMB25_boya.pdf)
