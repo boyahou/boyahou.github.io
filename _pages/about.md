@@ -12,22 +12,13 @@ redirect_from:
 I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://maxim.ece.illinois.edu/) and Prof. [Olgica Milenkovic](https://publish.illinois.edu/milenkovic/) at the University of Illinois Urbana-Champaign (UIUC). I obtained my Ph.D in Electrical and Computer Engineering at UIUC, advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received B.Eng. in Electrical Engineering from Zhejiang University. 
 
 
-# Research
-
 My research seeks to redefine modeling for autonomy by unifying modern machine learning with the rigor of systems and control theory, with application to power systems and biology. Drawing on tools from statistical learning theory, applied probability, operator theory, systems and control theory, and optimization, I develop theoretical frameworks and computational methods for data-driven representation and control of dynamical systems that learn from data and adapt to uncertain environments while remaining grounded in rigorous principles.
-
-- ## Highlighted Publication:
-
-### Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach
-*Proceedings of the 40th International Conference on Machine Learning (ICML), 2023*  
-Authors: **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya  
-[download](https://proceedings.mlr.press/v202/hou23c.html)
 
 
 ## Monograph
 
 ### Kernel Method for Learning Dynamical Systems
-*Monograph (Sample Chapters)*  
+*Monograph*  
 Authors: **B. Hou**, S. Bose, N. Dahlin, U. Vaidya  
 [Sample chapters](../assets/monograph_draft_boya.pdf)
 
@@ -35,63 +26,80 @@ Authors: **B. Hou**, S. Bose, N. Dahlin, U. Vaidya
 ## An Operator-Theoretic Perspective for Learning Nonlinear Systems
 
 ### Nonparametric Sparse Online Learning of the Koopman Operator
-Authors: **B. Hou**, S. Sanjari, N. Dahlin, A. Koppel, S. Bose  
+**B. Hou**, S. Sanjari, N. Dahlin, A. Koppel, S. Bose  
 *arXiv preprint*  [download](https://arxiv.org/abs/2405.07432)
 
 ### Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator
 *Physica D: Nonlinear Phenomena, 2025*  
-Authors: J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya  
+J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya  
 [download](https://www.sciencedirect.com/science/article/abs/pii/S0167278925001411)
 
-### Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach
+### ⭐ Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach
 *Proceedings of the 40th International Conference on Machine Learning (ICML), 2023*  
-Authors: **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya  
+**B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya  
 [download](https://proceedings.mlr.press/v202/hou23c.html)
 
 ### Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space
 *Proceedings of the 37th AAAI Conference on Artificial Intelligence, 2023*  
-Authors: **B. Hou**, S. Sanjari, N. Dahlin, S. Bose  
+**B. Hou**, S. Sanjari, N. Dahlin, S. Bose  
 [download](https://ojs.aaai.org/index.php/AAAI/article/view/25956)
 
 ### Sparse Learning of Kernel Transfer Operators
 *Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021*  
-Authors: **B. Hou**, S. Bose, U. Vaidya  
+**B. Hou**, S. Bose, U. Vaidya  
 [download](https://ieeexplore.ieee.org/abstract/document/9723412)
 
 ## Application to Power Systems
 
 ### Data-Driven Transient Stability Analysis Using the Koopman Operator
 *International Journal of Electrical Power and Energy Systems, 2024*  
-Authors: A. Reddy Ramapuram Matavalam, **B. Hou**, H. Choi, S. Bose, U. Vaidya  
+A. Reddy Ramapuram Matavalam, **B. Hou**, H. Choi, S. Bose, U. Vaidya  
 [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1)
 
 ### Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space
 *Physica D: Nonlinear Phenomena, Special Issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024*  
-Authors: **B. Hou**, A. Reddy Ramapuram Matavalam, S. Bose, U. Vaidya  
+**B. Hou**, A. Reddy Ramapuram Matavalam, S. Bose, U. Vaidya  
 [download](https://doi.org/10.1016/j.physd.2024.134168)  
 Also presented as a poster at the American Control Conference (ACC), 2023.
 
   
+## Behavioral Approach for Controlled Systems Beyond Linearity
 
+### A Behavioral Perspective on Subspace and Interpolation Methods for Simulation of Linear Time-Invariant Systems   
+**B. Hou**, M. Raginsky  
+[Preprint](../assets/ACC26.pdf)
+
+### A Behavioral Framework on Nonlinear Systems in Reproducing Kernel Hilbert Spaces  
+*In preparation*  
+**B. Hou**, M. Raginsky
 
  
-- ## Behavioral Approach for Controlled Systems Beyond Linearity:
+## Analysis and Control of Spatially Coupled Network RNA Velocity
 
-  -  **B. Hou**, M. Raginsky. A Behavioral Perspective on Subspace and Interpolation Methods for Simulation of Linear Time-Invariant Systems. [Preprint](../assets/ACC26.pdf)
+### Multi Network RNA Velocity  
+*Presented at the NITMB MathBio Convergence Conference, 2025*  
+**B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic  
+[Slide](../assets/NITMB25_boya.pdf)
 
-  -  **B. Hou**, M. Raginsky. A Behavioral Framework on Nonlinear Systems in Reproducing Kernel Hilbert Spaces. (In preparation)
-   
-- ## Analysis and Control of Spatially Coupled Network RNA Velocity:
-  - **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic. Multi Network RNA Velocity. Presented at the National Institute for Theory and Mathematics in Biology (NITMB) MathBio Convergence Conference, 2025. [Slide](../assets/NITMB25_boya.pdf)
-    
-  - **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic. Spatially-Coupled Network RNA Velocities: A Control Theoretic Perspective. (In preparation).
-    
-- ## Preparing Power Grid for Electrified Transportation:
-   Electrification can help to reduce the carbon footprint of aviation. The transition away from the jet fuel-powered airplane towards battery-powered electrified aircraft will impose extra charging requirements on airports. In order to handle the impending electrification of commercial aviation, I study the interdependency of transportation (airlines) and the energy infrastructure at airports.
+### Spatially-Coupled Network RNA Velocities: A Control Theoretic Perspective  
+*In preparation*  
+**B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic
 
-  - **B. Hou**, S. Bose, L. Marla, K. Haran. Impact of Aviation Electrification on Airports: Flight Scheduling and Charging. IEEE Transactions on Intelligent Transportation Systems, 2023. [download](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10296862)
+## Preparing Power Grid for Electrified Transportation
 
-  - **B. Hou**, S. Bose, K. Haran. Powering Electric Aircraft at O'Hare Airport: A Case Study. In Proceedings of the IEEE Power and Energy Society General Meeting, 2020. [download](https://ieeexplore.ieee.org/abstract/document/9281871)
+Electrification can help to reduce the carbon footprint of aviation.  
+The transition from jet-fuel aircraft to battery-powered electrified aircraft will impose new charging requirements on airports.  
+To support this transition, I study the interdependency between transportation (airlines) and energy infrastructure.
+
+### Impact of Aviation Electrification on Airports: Flight Scheduling and Charging  
+*IEEE Transactions on Intelligent Transportation Systems, 2023*  
+**B. Hou**, S. Bose, L. Marla, K. Haran  
+[download](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10296862)
+
+### Powering Electric Aircraft at O'Hare Airport: A Case Study  
+*Proceedings of the IEEE Power and Energy Society General Meeting, 2020*  
+**B. Hou**, S. Bose, K. Haran  
+[download](https://ieeexplore.ieee.org/abstract/document/9281871)
 
   
 # Awards
