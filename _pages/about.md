@@ -18,7 +18,7 @@ My research seeks to redefine modeling for autonomy by unifying modern machine l
 
 - ## Highlighted Publication:
   
-  - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach, in Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
+  - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach. In Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
 
 - ## Monograph
 
@@ -48,12 +48,12 @@ My research seeks to redefine modeling for autonomy by unifying modern machine l
 
   -  **B. Hou**, M. Raginsky. A Behavioral Perspective on Subspace and Interpolation Methods for Simulation of Linear Time-Invariant Systems. [Preprint](../assets/ACC26.pdf)
 
-  -  **B. Hou**, M. Raginsky. A Behavioral Framework on Nonlinear Systems in Reproducing Kernel Hilbert Spaces. (Coming soon)
+  -  **B. Hou**, M. Raginsky. A Behavioral Framework on Nonlinear Systems in Reproducing Kernel Hilbert Spaces. (In preparation)
    
 - ## Analysis and Control of Spatially Coupled Network RNA Velocity:
   - **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic. Multi Network RNA Velocity. Presented at the National Institute for Theory and Mathematics in Biology (NITMB) MathBio Convergence Conference, 2025. [Slide](../assets/NITMB25_boya.pdf)
     
-  - **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic. Spatially-Coupled Network RNA Velocities: A Control Theoretic Perspective. (Under preparation).
+  - **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic. Spatially-Coupled Network RNA Velocities: A Control Theoretic Perspective. (In preparation).
     
 - ## Preparing Power Grid for Electrified Transportation:
    Electrification can help to reduce the carbon footprint of aviation. The transition away from the jet fuel-powered airplane towards battery-powered electrified aircraft will impose extra charging requirements on airports. In order to handle the impending electrification of commercial aviation, I study the interdependency of transportation (airlines) and the energy infrastructure at airports.
