@@ -23,7 +23,6 @@ My research seeks to redefine modeling for autonomy by unifying modern machine l
 Authors: **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya  
 [download](https://proceedings.mlr.press/v202/hou23c.html)
 
----
 
 ## Monograph
 
@@ -32,14 +31,12 @@ Authors: **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya
 Authors: **B. Hou**, S. Bose, N. Dahlin, U. Vaidya  
 [Sample chapters](../assets/monograph_draft_boya.pdf)
 
----
 
 ## An Operator-Theoretic Perspective for Learning Nonlinear Systems
 
 ### Nonparametric Sparse Online Learning of the Koopman Operator
-*arXiv preprint*  
 Authors: **B. Hou**, S. Sanjari, N. Dahlin, A. Koppel, S. Bose  
-[download](https://arxiv.org/abs/2405.07432)
+*arXiv preprint*  [download](https://arxiv.org/abs/2405.07432)
 
 ### Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator
 *Physica D: Nonlinear Phenomena, 2025*  
@@ -61,16 +58,22 @@ Authors: **B. Hou**, S. Sanjari, N. Dahlin, S. Bose
 Authors: **B. Hou**, S. Bose, U. Vaidya  
 [download](https://ieeexplore.ieee.org/abstract/document/9723412)
 
----
+## Application to Power Systems
+
+### Data-Driven Transient Stability Analysis Using the Koopman Operator
+*International Journal of Electrical Power and Energy Systems, 2024*  
+Authors: A. Reddy Ramapuram Matavalam, **B. Hou**, H. Choi, S. Bose, U. Vaidya  
+[download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1)
+
+### Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space
+*Physica D: Nonlinear Phenomena, Special Issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024*  
+Authors: **B. Hou**, A. Reddy Ramapuram Matavalam, S. Bose, U. Vaidya  
+[download](https://doi.org/10.1016/j.physd.2024.134168)  
+Also presented as a poster at the American Control Conference (ACC), 2023.
+
   
 
-  **Application to Power Systems:** 
- 
-  - A.Reddy Ramapuram Matavalam, **B. Hou**, H.Choi, S.Bose, U.Vaidya. Data-Driven Transient Stability Analysis Using the Koopman Operator. International Journal of Electrical Power and Energy Systems, 2024. [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1) 
 
-  - **B. Hou**, A.Reddy Ramapuram Matavalam, S.Bose, U.Vaidya. Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space. Physica D: Nonlinear Phenomena. Special issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024. [download](https://doi.org/10.1016/j.physd.2024.134168)
-    
-     Also presented as a poster paper at the American Control Conference (ACC) 2023.
  
 - ## Behavioral Approach for Controlled Systems Beyond Linearity:
 
