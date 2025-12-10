@@ -45,7 +45,7 @@ J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya
 *Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021*  [download](https://ieeexplore.ieee.org/abstract/document/9723412)  
 **B. Hou**, S. Bose, U. Vaidya  
 
-## Application to Power Systems
+Application to Power Systems:
 
 ### Data-Driven Transient Stability Analysis Using the Koopman Operator
 *International Journal of Electrical Power and Energy Systems, 2024*  [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1)  
