@@ -17,26 +17,52 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 My research seeks to redefine modeling for autonomy by unifying modern machine learning with the rigor of systems and control theory, with application to power systems and biology. Drawing on tools from statistical learning theory, applied probability, operator theory, systems and control theory, and optimization, I develop theoretical frameworks and computational methods for data-driven representation and control of dynamical systems that learn from data and adapt to uncertain environments while remaining grounded in rigorous principles.
 
 - ## Highlighted Publication:
+
+### Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach
+*Proceedings of the 40th International Conference on Machine Learning (ICML), 2023*  
+Authors: **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya  
+[download](https://proceedings.mlr.press/v202/hou23c.html)
+
+---
+
+## Monograph
+
+### Kernel Method for Learning Dynamical Systems
+*Monograph (Sample Chapters)*  
+Authors: **B. Hou**, S. Bose, N. Dahlin, U. Vaidya  
+[Sample chapters](../assets/monograph_draft_boya.pdf)
+
+---
+
+## An Operator-Theoretic Perspective for Learning Nonlinear Systems
+
+### Nonparametric Sparse Online Learning of the Koopman Operator
+*arXiv preprint*  
+Authors: **B. Hou**, S. Sanjari, N. Dahlin, A. Koppel, S. Bose  
+[download](https://arxiv.org/abs/2405.07432)
+
+### Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator
+*Physica D: Nonlinear Phenomena, 2025*  
+Authors: J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya  
+[download](https://www.sciencedirect.com/science/article/abs/pii/S0167278925001411)
+
+### Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach
+*Proceedings of the 40th International Conference on Machine Learning (ICML), 2023*  
+Authors: **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya  
+[download](https://proceedings.mlr.press/v202/hou23c.html)
+
+### Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space
+*Proceedings of the 37th AAAI Conference on Artificial Intelligence, 2023*  
+Authors: **B. Hou**, S. Sanjari, N. Dahlin, S. Bose  
+[download](https://ojs.aaai.org/index.php/AAAI/article/view/25956)
+
+### Sparse Learning of Kernel Transfer Operators
+*Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021*  
+Authors: **B. Hou**, S. Bose, U. Vaidya  
+[download](https://ieeexplore.ieee.org/abstract/document/9723412)
+
+---
   
-  - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach.
-    In Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
-
-- ## Monograph
-
-   - **B. Hou**, S. Bose, N. Dahlin, U. Vaidya. Kernel Method for Learning Dynamical Systems. [Sample chapters](../assets/monograph_draft_boya.pdf)
- 
-- ## An Operator-Theoretic Perspective for Learning Nonlinear Systems:
-
-  - **B. Hou**, S. Sanjari, N.Dahlin, A. Koppel, S. Bose. Nonparametric Sparse Online Learning of the Koopman Operator. [download](https://arxiv.org/abs/2405.07432)
- 
-  - J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya. Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator.
-    Physica D: Nonlinear Phenomena, 2025. [download](https://www.sciencedirect.com/science/article/abs/pii/S0167278925001411)
-
-  - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach. In Proceedings of the Fortieth International Conference on Machine Learning (ICML), 2023. [download](https://proceedings.mlr.press/v202/hou23c.html)
-
-  - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose. Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space. In Proceedings of the 37th Association for the Advancement of Artificial Intelligence (AAAI) Conference on Artificial Intelligence, 2023. [download](https://ojs.aaai.org/index.php/AAAI/article/view/25956)
-    
-  - **B. Hou**, S. Bose and U. Vaidya. Sparse Learning of Kernel Transfer Operators. In Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021. [download](https://ieeexplore.ieee.org/abstract/document/9723412)
 
   **Application to Power Systems:** 
  
