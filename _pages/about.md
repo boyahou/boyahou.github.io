@@ -19,7 +19,7 @@ Drawing on tools from statistical learning theory, applied probability, operator
 ## Monograph
 
 ### Kernel Method for Learning Dynamical Systems
-*Monograph*  [Sample chapters](../assets/monograph_draft_boya.pdf)
+[Sample chapters](../assets/monograph_draft_boya.pdf)
 **B. Hou**, S. Bose, N. Dahlin, U. Vaidya  
 
 
@@ -30,30 +30,30 @@ Drawing on tools from statistical learning theory, applied probability, operator
 *arXiv preprint*  [download](https://arxiv.org/abs/2405.07432)
 
 ### Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator
-*Physica D: Nonlinear Phenomena, 2025*  [download](https://www.sciencedirect.com/science/article/abs/pii/S0167278925001411)
+*Physica D: Nonlinear Phenomena, 2025*  [download](https://www.sciencedirect.com/science/article/abs/pii/S0167278925001411)  
 J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya  
 
 ### ⭐ Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach
-*Proceedings of the 40th International Conference on Machine Learning (ICML), 2023*  [download](https://proceedings.mlr.press/v202/hou23c.html)
+*Proceedings of the 40th International Conference on Machine Learning (ICML), 2023*  [download](https://proceedings.mlr.press/v202/hou23c.html)  
 **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya  
 
 ### Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space
-*Proceedings of the 37th AAAI Conference on Artificial Intelligence, 2023*  [download](https://ojs.aaai.org/index.php/AAAI/article/view/25956)
+*Proceedings of the 37th AAAI Conference on Artificial Intelligence, 2023*  [download](https://ojs.aaai.org/index.php/AAAI/article/view/25956)  
 **B. Hou**, S. Sanjari, N. Dahlin, S. Bose  
 
 ### Sparse Learning of Kernel Transfer Operators
-*Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021*  [download](https://ieeexplore.ieee.org/abstract/document/9723412)
+*Proceedings of the Asilomar Conference on Signals, Systems, and Computers, 2021*  [download](https://ieeexplore.ieee.org/abstract/document/9723412)  
 **B. Hou**, S. Bose, U. Vaidya  
 
 ## Application to Power Systems
 
 ### Data-Driven Transient Stability Analysis Using the Koopman Operator
-*International Journal of Electrical Power and Energy Systems, 2024*  [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1)
+*International Journal of Electrical Power and Energy Systems, 2024*  [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1)  
 A. Reddy Ramapuram Matavalam, **B. Hou**, H. Choi, S. Bose, U. Vaidya  
 
 ### Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space
-*Physica D: Nonlinear Phenomena, Special Issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024*  [download](https://doi.org/10.1016/j.physd.2024.134168)  
-Also presented as a poster at the American Control Conference (ACC), 2023.
+*Physica D: Nonlinear Phenomena, Special Issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024*  [download](https://doi.org/10.1016/j.physd.2024.134168)    
+Also presented as a poster at the American Control Conference (ACC), 2023.  
 **B. Hou**, A. Reddy Ramapuram Matavalam, S. Bose, U. Vaidya  
 
   
@@ -71,7 +71,7 @@ Also presented as a poster at the American Control Conference (ACC), 2023.
 ## Analysis and Control of Spatially Coupled Network RNA Velocity
 
 ### Multi Network RNA Velocity  
-*Presented at the NITMB MathBio Convergence Conference, 2025*  [Slide](../assets/NITMB25_boya.pdf)
+*Presented at the NITMB MathBio Convergence Conference, 2025*  [Slide](../assets/NITMB25_boya.pdf)  
 **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic  
 
 ### Spatially-Coupled Network RNA Velocities: A Control Theoretic Perspective  
@@ -84,11 +84,11 @@ Also presented as a poster at the American Control Conference (ACC), 2023.
 Electrification can help to reduce the carbon footprint of aviation. The transition from jet-fuel aircraft to battery-powered electrified aircraft will impose new charging requirements on airports. To support this transition, I study the interdependency between transportation (airlines) and energy infrastructure.
 
 ### Impact of Aviation Electrification on Airports: Flight Scheduling and Charging  
-*IEEE Transactions on Intelligent Transportation Systems, 2023*  [download](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10296862)
+*IEEE Transactions on Intelligent Transportation Systems, 2023*  [download](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10296862)  
 **B. Hou**, S. Bose, L. Marla, K. Haran  
 
 ### Powering Electric Aircraft at O'Hare Airport: A Case Study  
-*Proceedings of the IEEE Power and Energy Society General Meeting, 2020*  [download](https://ieeexplore.ieee.org/abstract/document/9281871)
+*Proceedings of the IEEE Power and Energy Society General Meeting, 2020*  [download](https://ieeexplore.ieee.org/abstract/document/9281871)  
 **B. Hou**, S. Bose, K. Haran  
 
 
