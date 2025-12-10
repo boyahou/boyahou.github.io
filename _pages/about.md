@@ -93,6 +93,7 @@ Electrification can help to reduce the carbon footprint of aviation. The transit
 
 
 # Awards
+- The NSF-Simons National Institute for Theory and Mathematics in Biology (NITMB) Early Career Travel Award, 2025
 - Best Poster Award, Power Systems Engineering Research Center (PSERC), 2024
 - Rising Stars in EECS, 2023
 - M.A.Pai Scholarship, 2023
