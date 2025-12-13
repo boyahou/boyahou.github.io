@@ -18,7 +18,7 @@ Drawing on tools from statistical learning theory, applied probability, operator
 
 ## Monograph
 
-### 📄 Kernel Method for Learning Dynamical Systems
+### 📄 Kernel Method for Learning Dynamical Systems: An Operator-Theoretic Perspective
 [Sample chapters](../assets/monograph_draft_boya.pdf)  
 **B. Hou**, S. Bose, N. Dahlin, U. Vaidya  
 
