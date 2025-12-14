@@ -11,6 +11,7 @@ redirect_from:
 
 I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://maxim.ece.illinois.edu/) and Prof. [Olgica Milenkovic](https://publish.illinois.edu/milenkovic/) at the University of Illinois Urbana-Champaign (UIUC). I obtained my Ph.D in Electrical and Computer Engineering at UIUC, advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received B.Eng. in Electrical Engineering from Zhejiang University. 
 
+## Research Interests:
 
 My research seeks to redefine modeling for autonomy by unifying modern machine learning with the rigor of systems and control theory, with application to power systems and biology. 
 Drawing on tools from statistical learning theory, applied probability, operator theory, systems and control theory, and optimization, I develop theoretical frameworks and computational methods for data-driven representation and control of dynamical systems that learn from data and adapt to uncertain environments while remaining grounded in rigorous principles.
