@@ -79,7 +79,7 @@ Also presented as a poster at the American Control Conference (ACC), 2023.
 
 ### 📄 Spatially-Coupled Network RNA Velocities: A Control Theoretic Perspective  
 **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic  
-*In preparation*  
+[Preprint](../assets/RNA.pdf)
 
 
 ## Preparing Power Grid for Electrified Transportation
