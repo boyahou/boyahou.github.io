@@ -13,6 +13,11 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 
 My CV can be found here (Dec 2025) [CV](../assets/boya_CV.pdf).
 
+
+## News:
+
+Jan 2026: Happy New Year! Wishing everyone a healthy, productive, and fulfilling 2026. Our manuscript, "Spatially-Coupled Network RNA Velocities: A Control-Theoretic Perspective", is now available on [arXiv](https://arxiv.org/abs/2601.01018).
+
 ## Research Interests:
 
 My research seeks to redefine modeling for autonomy by unifying modern machine learning with the rigor of systems and control theory, with application to power systems and biology. 
@@ -79,7 +84,7 @@ Also presented as a poster at the American Control Conference (ACC), 2023.
 
 ### 📄 Spatially-Coupled Network RNA Velocities: A Control Theoretic Perspective  
 **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic  
-[Preprint](../assets/RNA.pdf)
+[Preprint](https://arxiv.org/abs/2601.01018)
 
 
 ## Preparing Power Grid for Electrified Transportation
