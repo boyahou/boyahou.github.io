@@ -16,7 +16,7 @@ My CV can be found here (Dec 2025) [CV](../assets/boya_CV.pdf).
 
 ## News:
 
-Jan 2026: Happy New Year! Wishing everyone a healthy, productive, and fulfilling 2026. Our manuscript, "Spatially-Coupled Network RNA Velocities: A Control-Theoretic Perspective", is now available on [arXiv](https://arxiv.org/abs/2601.01018).
+Jan 2026: Happy New Year! Wishing everyone a healthy and fulfilling 2026. Our manuscript, "Spatially-Coupled Network RNA Velocities: A Control-Theoretic Perspective", is now available on [arXiv](https://arxiv.org/abs/2601.01018).
 
 ## Research Interests:
 
