@@ -18,10 +18,16 @@ My CV can be found here (Dec 2025) [CV](../assets/boya_CV.pdf).
 
 Jan 2026: Happy New Year! Wishing everyone a healthy and fulfilling 2026. Our manuscript, "Spatially-Coupled Network RNA Velocities: A Control-Theoretic Perspective", is now available on [arXiv](https://arxiv.org/abs/2601.01018).
 
-## Research Interests:
+## Research:
 
-My research seeks to redefine modeling for autonomy by unifying modern machine learning with the rigor of systems and control theory, with application to power systems and biology. 
-Drawing on tools from statistical learning theory, applied probability, operator theory, systems and control theory, and optimization, I develop theoretical frameworks and computational methods for data-driven representation and control of dynamical systems that learn from data and adapt to uncertain environments while remaining grounded in rigorous principles.
+✨ One-liner:
+My research seeks to redefine modeling for intelligent systems by unifying modern machine learning with the rigor of systems and control theory.
+
+What I do: 
+Drawing on tools from statistical learning theory, applied probability, operator theory, systems and control theory, and optimization, I develop theoretical frameworks and computational methods for data-driven representation and control of dynamical systems.
+
+Why it matters:
+These methods help systems learn from data and adapt to uncertain environments while remaining grounded in rigorous principles, with applications in power systems and biology. 
 
 
 ## Monograph
