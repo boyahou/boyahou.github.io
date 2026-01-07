@@ -20,13 +20,13 @@ Jan 2026: Happy New Year! Wishing everyone a healthy and fulfilling 2026. Our ma
 
 ## Research:
 
-✨ One-liner:
+### One-liner:
 My research seeks to redefine modeling for intelligent systems by unifying modern machine learning with the rigor of systems and control theory.
 
-What I do: 
+### What I do: 
 Drawing on tools from statistical learning theory, applied probability, operator theory, systems and control theory, and optimization, I develop theoretical frameworks and computational methods for data-driven representation and control of dynamical systems.
 
-Why it matters:
+### Why it matters:
 These methods help systems learn from data and adapt to uncertain environments while remaining grounded in rigorous principles, with applications in power systems and biology. 
 
 
