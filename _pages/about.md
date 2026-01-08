@@ -20,7 +20,7 @@ Jan 2026: Happy New Year! Wishing everyone a healthy and fulfilling 2026. Our ma
 
 ## Research:
 
-### Vision:
+### Theme:
 My research seeks to redefine modeling for intelligent systems by unifying modern machine learning with the rigor of systems and control theory.
 
 ### What I do: 
@@ -85,7 +85,7 @@ Also presented as a poster at the American Control Conference (ACC), 2023.
 ## Analysis and Control of Spatially Coupled Network RNA Velocity
 
 ### 📄 Multi Network RNA Velocity  
-*Presented as abstract at the NITMB MathBio Convergence Conference, 2025*  [Slide](../assets/NITMB25_boya.pdf)  
+*Presented as abstract at the NITMB MathBio Convergence Conference, 2025*  [Slide](../assets/NITMB25_boya.pdf)  [Abstract](https://www.nitmb.org/nitmb-mathbio-convergence-conference)
 **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic  
 
 ### 📄 Spatially-Coupled Network RNA Velocities: A Control Theoretic Perspective  
