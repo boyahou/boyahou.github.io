@@ -85,7 +85,7 @@ Also presented as a poster at the American Control Conference (ACC), 2023.
 ## Analysis and Control of Spatially Coupled Network RNA Velocity
 
 ### 📄 Multi Network RNA Velocity  
-*Presented as abstract at the NITMB MathBio Convergence Conference, 2025*  [Slide](../assets/NITMB25_boya.pdf)  [Abstract](https://www.nitmb.org/nitmb-mathbio-convergence-conference)
+*Presented as abstract at the NITMB MathBio Convergence Conference, 2025*  [Slide](../assets/NITMB25_boya.pdf)  [Abstract](https://www.nitmb.org/nitmb-mathbio-convergence-conference)  
 **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic  
 
 ### 📄 Spatially-Coupled Network RNA Velocities: A Control Theoretic Perspective  
