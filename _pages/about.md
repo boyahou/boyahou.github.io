@@ -30,7 +30,6 @@ Drawing on tools from statistical learning theory, applied probability, operator
 ### Why it matters:
 These methods allow intelligent systems to learn from data and adapt to uncertain environments while remaining grounded in rigorous principles, with applications in power systems and biology. 
 
-
 ## Monograph
 
 ### 📄 Kernel Method for Learning Dynamical Systems: An Operator-Theoretic Perspective
@@ -38,7 +37,7 @@ These methods allow intelligent systems to learn from data and adapt to uncertai
 **B. Hou**, S. Bose, N. Dahlin, U. Vaidya  
 
 
-## An Operator-Theoretic Perspective for Learning Nonlinear Systems
+## Operator-Theoretic Foundations for Learning Nonlinear Systems
 
 ### 📄 Nonparametric Sparse Online Learning of the Koopman Operator
 **B. Hou**, S. Sanjari, N. Dahlin, A. Koppel, S. Bose  
@@ -135,11 +134,11 @@ Electrification can help to reduce the carbon footprint of aviation. The transit
 
 # Teaching
 - Fall 2021, Teaching Assistant, ECE 365 Data Science and Engineering, UIUC.
-- Fall 2023, Organized and taught weekly reading group on Learning in Games, UIUC.
-- Summer 2021, Organized and taught weekly reading group on Functional and Operator-Theoretic Foundation of Learning.
+- Fall 2023, Organized and taught a weekly reading group on Learning in Games, UIUC.
+- Summer 2021, Organized and taught a weekly reading group on Functional and Operator-Theoretic Foundation of Learning.
 
 
 # Fun
-Outside of mathematics and engineering, I pursue my passion for dancing. I performed contemporary ballet and dance of the Han-Tang dynasties (a subcategory of Classical Chinese Dance) with Champaign Park District and Zhejiang Wenqin Art Troupe. 
+Outside of mathematics and engineering, I pursue my passion for dancing. I performed contemporary ballet and dance of the Han-Tang dynasties (a subcategory of Classical Chinese Dance) with the Champaign Park District and Zhejiang Wenqin Art Troupe. 
 
 [View rehearsal photos](/dance/)
