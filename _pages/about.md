@@ -39,9 +39,10 @@ These methods allow intelligent systems to learn from data and adapt to uncertai
 
 ## Operator-Theoretic Foundations for Learning Nonlinear Systems
 
-### 📄 Nonparametric Sparse Online Learning of the Koopman Operator
+### ⭐ Nonparametric Sparse Online Learning of the Koopman Operator
+*Minor Revision at SIAM Journal on Control and Optimization (SICON)*  [Preprint](https://arxiv.org/abs/2405.07432)
+
 **B. Hou**, S. Sanjari, N. Dahlin, A. Koppel, S. Bose  
-*arXiv preprint*  [download](https://arxiv.org/abs/2405.07432)
 
 ### 📄 Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator
 *Physica D: Nonlinear Phenomena, 2025*  [download](https://www.sciencedirect.com/science/article/abs/pii/S0167278925001411)  
