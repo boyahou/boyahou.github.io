@@ -75,6 +75,7 @@ Also presented as a poster at the American Control Conference (ACC), 2023.
 
 ### 📄 A Behavioral Perspective on Subspace and Interpolation Methods for Simulation of Linear Time-Invariant Systems   
 **B. Hou**, M. Raginsky  
+[Preprint](../assets/ACC26.pdf)  
 
 ### 📄 A Behavioral Framework on Nonlinear Systems in Reproducing Kernel Hilbert Spaces   
 **B. Hou**, M. Raginsky  
