@@ -76,9 +76,9 @@ Also presented as a poster at the American Control Conference (ACC), 2023.
 **B. Hou**, M. Raginsky  
 [Preprint](../assets/Hou26a.pdf)  
 
-### 📄 A Behavioral Framework on Nonlinear Systems in Reproducing Kernel Hilbert Spaces   
+### 📄 A Behavioral Framework for Data-Driven Modeling of Nonlinear Systems in Vector-Valued Reproducing Kernel Hilbert Spaces  
 **B. Hou**, M. Raginsky  
-*In preparation* 
+[Preprint](../assets/Hou26b.pdf)  
 
  
 ## Analysis and Control of Spatially Coupled Network RNA Velocity
