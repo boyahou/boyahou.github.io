@@ -13,6 +13,7 @@ I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://
 
 As I look ahead to the next stage of my academic journey, I am on the academic job market for tenure-track faculty positions starting in Fall 2026.
 
+My CV can be found here [CV](../assets/boya_CV.pdf)  
 
 ## News:
 
