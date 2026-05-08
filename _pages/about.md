@@ -9,23 +9,8 @@ redirect_from:
 ---
 
 
-I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://maxim.ece.illinois.edu/) and Prof. [Olgica Milenkovic](https://publish.illinois.edu/milenkovic/) at the University of Illinois Urbana-Champaign (UIUC). I obtained my Ph.D in Electrical and Computer Engineering at UIUC, advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received B.Eng. in Electrical Engineering from Zhejiang University. 
+I am a postdoctoral research associate hosted by Prof. [Maxim Raginsky](https://maxim.ece.illinois.edu/) and Prof. [Olgica Milenkovic](https://publish.illinois.edu/milenkovic/) at the University of Illinois Urbana-Champaign (UIUC). I obtained my Ph.D in Electrical and Computer Engineering at UIUC, advised by Prof. [Subhonmesh Bose](http://boses.ece.illinois.edu/). Prior to this, I received B.Eng. in Electrical Engineering from Zhejiang University. My research interests cover machine learning, applied probability, stochastic processes, control, and optimization.
 
-
-## News:
-
-Jan 2026: Happy New Year! Wishing everyone a healthy and fulfilling 2026. Our manuscript, "Spatially-Coupled Network RNA Velocities: A Control-Theoretic Perspective", is now available on [arXiv](https://arxiv.org/abs/2601.01018).
-
-## Research:
-
-### Theme:
-My research seeks to redefine modeling for intelligent systems by unifying modern machine learning with the rigor of systems and control theory.
-
-### What I do: 
-Drawing on tools from statistical learning theory, applied probability, operator theory, systems and control theory, and optimization, I develop theoretical frameworks and computational methods for data-driven representation and control of dynamical systems.
-
-### Why it matters:
-These methods allow intelligent systems to learn from data and adapt to uncertain environments while remaining grounded in rigorous principles, with applications in power systems and biology. 
 
 ## Monograph
 
