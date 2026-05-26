@@ -26,11 +26,6 @@ I am a postdoctoral research associate at the University of Illinois Urbana-Cham
 *International Journal of Electrical Power and Energy Systems, 2024*  [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1)  
 A. Reddy Ramapuram Matavalam, **B. Hou**, H. Choi, S. Bose, U. Vaidya  
 
-### 📄 Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space
-*Physica D: Nonlinear Phenomena, Special Issue: Topics at the Interface of Machine Learning and Dynamical Systems, 2024*  [download](https://doi.org/10.1016/j.physd.2024.134168)    
-Also presented as a poster at the American Control Conference (ACC), 2023.  
-**B. Hou**, A. Reddy Ramapuram Matavalam, S. Bose, U. Vaidya  
-
 
 ### 📄 Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space
 *Proceedings of the 37th AAAI Conference on Artificial Intelligence, 2023*  [download](https://ojs.aaai.org/index.php/AAAI/article/view/25956)  
@@ -46,15 +41,6 @@ Also presented as a poster at the American Control Conference (ACC), 2023.
 - Rising Stars in EECS, 2023
 - M.A.Pai Scholarship, 2023
 -	Mavis Future Faculty Fellows (MF3), 2023-2024
-- AAAI Student Scholarship, 2023
-- The second-place winner in the United States Association for Energy Economics (USAEE) Case Competition, 2019
-- UCLA Cross-disciplinary Scholars in Science and Technology (CSST) Scholarship, 2017
-
-
-# Teaching
-- Fall 2021, Teaching Assistant, ECE 365 Data Science and Engineering, UIUC.
-- Fall 2023, Organized and taught a weekly reading group on Learning in Games, UIUC.
-- Summer 2021, Organized and taught a weekly reading group on Functional and Operator-Theoretic Foundation of Learning.
 
 
 # Fun
