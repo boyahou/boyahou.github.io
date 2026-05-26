@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral research associate hosted by Prof. Maxim Raginsky and Prof. Olgica Milenkovic at the University of Illinois Urbana-Champaign (UIUC). I obtained my Ph.D in Electrical and Computer Engineering at UIUC, advised by Prof. Subhonmesh Bose. Prior to this, I received B.Eng. in Electrical Engineering from Zhejiang University. My research interests cover AI, machine learning, applied probability, stochastic processes, control, and optimization.
+I am a postdoctoral research associate at the University of Illinois Urbana-Champaign (UIUC). Prior to this, I received my Ph.D in Electrical and Computer Engineering at UIUC and B.Eng. in Electrical Engineering from Zhejiang University. 
 
 
 # Selected Publications:
