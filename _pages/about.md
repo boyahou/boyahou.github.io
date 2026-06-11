@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral research associate at the University of Illinois Urbana-Champaign (UIUC). Prior to this, I received my Ph.D in Electrical and Computer Engineering at UIUC and B.Eng. in Electrical Engineering from Zhejiang University. 
+I am a postdoctoral research associate at the University of Illinois Urbana-Champaign (UIUC), working with Prof. Maxim Raginsky and Prof. Olgica Milenkovic. Prior to this, I received my Ph.D in Electrical and Computer Engineering at UIUC advised by Prof. Subhonmesh Bose. I obtained B.Eng. in Electrical Engineering from Zhejiang University. 
 
 
 # Selected Publications:
@@ -21,11 +21,6 @@ I am a postdoctoral research associate at the University of Illinois Urbana-Cham
 ### ⭐ Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach
 *Proceedings of the 40th International Conference on Machine Learning (ICML), 2023*  [download](https://proceedings.mlr.press/v202/hou23c.html)  
 **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya  
-
-### 📄 Data-Driven Transient Stability Analysis Using the Koopman Operator
-*International Journal of Electrical Power and Energy Systems, 2024*  [download](https://authors.elsevier.com/sd/article/S0142-0615(24)00530-1)  
-A. Reddy Ramapuram Matavalam, **B. Hou**, H. Choi, S. Bose, U. Vaidya  
-
 
 ### 📄 Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space
 *Proceedings of the 37th AAAI Conference on Artificial Intelligence, 2023*  [download](https://ojs.aaai.org/index.php/AAAI/article/view/25956)  
