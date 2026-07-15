@@ -15,7 +15,7 @@ I am a postdoctoral research associate at the University of Illinois Urbana-Cham
 # Selected Publications:
 
 ### ⭐ Nonparametric Sparse Online Learning of the Koopman Operator
-*Minor Revision at SIAM Journal on Control and Optimization (SICON)*  [Preprint](https://arxiv.org/abs/2405.07432)  
+*To appear at SIAM Journal on Control and Optimization (SICON), 2026*  [Preprint](https://arxiv.org/abs/2405.07432)  
 **B. Hou**, S. Sanjari, N. Dahlin, A. Koppel, S. Bose  
 
 ### ⭐ Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach
