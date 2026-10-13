@@ -47,7 +47,7 @@ My research focuses on developing machine learning methods for complex systems a
 **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya  
 
 ### 📄 Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control. 
-*In submission, 2026. Short version accepted at a NeurIPS 2026 workshop.*  [download](https://arxiv.org/pdf/2610.10054). 
+*In submission, 2026. Short version accepted at a NeurIPS 2026 workshop.*  [download](https://arxiv.org/pdf/2610.10054).  
 **B. Hou**\*, S. Wang\*, S. Ambekar, M. Raginsky, O. Milenkovic  
 
 ### 📄 Spatially-Coupled Network RNA Velocities: A Control-Theoretic Perspective. 
@@ -60,34 +60,51 @@ My research focuses on developing machine learning methods for complex systems a
 
 ### Journal Articles
 
-- **B. Hou**, S. Sanjari, N. Dahlin, A. Koppel, S. Bose. Nonparametric Sparse Online Learning of the Koopman Operator.  
-*SIAM Journal on Control and Optimization*, to appear, 2026. [download](https://arxiv.org/abs/2405.07432).  
-- J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya. Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator.  
-*Physica D: Nonlinear Phenomena*, 2025. [download](https://www.sciencedirect.com/science/article/abs/pii/S0167278925001411).  
-- A. Reddy Ramapuram Matavalam, **B. Hou**, H. Choi, S. Bose, U. Vaidya. Data-Driven Transient Stability Analysis Using the Koopman Operator.   *International Journal of Electrical Power and Energy Systems*, 2024. [download](https://www.sciencedirect.com/science/article/pii/S0142061524005301).
-- **B. Hou**, A. Reddy Ramapuram Matavalam, S. Bose, U. Vaidya. Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space.  
-*Physica D: Nonlinear Phenomena*, 2024. [download](https://www.sciencedirect.com/science/article/pii/S0167278924001192?via%3Dihub).
-- **B. Hou**, S. Bose, L. Marla, K. Haran. Impact of Aviation Electrification on Airports: Flight Scheduling and Charging.      
-*IEEE Transactions on Intelligent Transportation Systems*, 2023. [download](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10296862).
+- **Nonparametric Sparse Online Learning of the Koopman Operator**<br>
+  *To appear in SIAM Journal on Control and Optimization (SICON), 2026* · [Preprint](https://arxiv.org/abs/2405.07432)<br>
+  **B. Hou**, S. Sanjari, N. Dahlin, A. Koppel, S. Bose
+- **Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator**<br>
+  *Physica D: Nonlinear Phenomena, 2025* · [Download](https://www.sciencedirect.com/science/article/abs/pii/S0167278925001411)<br>
+  J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya
+- **Data-Driven Transient Stability Analysis Using the Koopman Operator**<br>
+  *International Journal of Electrical Power and Energy Systems, 2024* · [Download](https://www.sciencedirect.com/science/article/pii/S0142061524005301)<br>
+  A. Reddy Ramapuram Matavalam, **B. Hou**, H. Choi, S. Bose, U. Vaidya
+- **Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space**<br>
+  *Physica D: Nonlinear Phenomena, 2024* · [Download](https://www.sciencedirect.com/science/article/pii/S0167278924001192)<br>
+  **B. Hou**, A. Reddy Ramapuram Matavalam, S. Bose, U. Vaidya
+- **Impact of Aviation Electrification on Airports: Flight Scheduling and Charging**<br>
+  *IEEE Transactions on Intelligent Transportation Systems, 2023* · [Download](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10296862)<br>
+  **B. Hou**, S. Bose, L. Marla, K. Haran
 
 ### Conference Proceedings
 
-- **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach.  
-*ICML*, 2023. [download](https://proceedings.mlr.press/v202/hou23c.html). 
-- **B. Hou**, S. Sanjari, N. Dahlin, S. Bose. Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space.  
-*AAAI*, 2023. [download](https://ojs.aaai.org/index.php/AAAI/article/view/25956).
-- **B. Hou**, S. Bose, U. Vaidya. Sparse Learning of Kernel Transfer Operators.  
-*Asilomar Conference on Signals, Systems, and Computers*, 2021. [download](https://ieeexplore.ieee.org/abstract/document/9723412)
-- **B. Hou**, S. Bose, K. Haran. Powering Electric Aircraft at O'Hare Airport: A Case Study.  
-*IEEE PES General Meeting*, 2020. [download](https://ieeexplore.ieee.org/abstract/document/9281871)
+- **Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach**<br>
+  *Proceedings of the 40th International Conference on Machine Learning (ICML), 2023* · [Download](https://proceedings.mlr.press/v202/hou23c.html)<br>
+  **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya
+- **Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Space**<br>
+  *Proceedings of the 37th AAAI Conference on Artificial Intelligence, 2023* · [Download](https://ojs.aaai.org/index.php/AAAI/article/view/25956)<br>
+  **B. Hou**, S. Sanjari, N. Dahlin, S. Bose
+- **Sparse Learning of Kernel Transfer Operators**<br>
+  *Asilomar Conference on Signals, Systems, and Computers, 2021* · [Download](https://ieeexplore.ieee.org/abstract/document/9723412)<br>
+  **B. Hou**, S. Bose, U. Vaidya
+- **Powering Electric Aircraft at O'Hare Airport: A Case Study**<br>
+  *IEEE PES General Meeting, 2020* · [Download](https://ieeexplore.ieee.org/abstract/document/9281871)<br>
+  **B. Hou**, S. Bose, K. Haran
 
 ### Preprints
 
-- **B. Hou**\*, S. Wang\*, S. Ambekar, M. Raginsky, O. Milenkovic. Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control. [download](https://arxiv.org/pdf/2610.10054) 
-- **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic. Spatially-Coupled Network RNA Velocities: A Control-Theoretic Perspective. [download](https://arxiv.org/pdf/2601.01018)
-- **B. Hou**, M. Raginsky. A Behavioral Framework for Data-Driven Modeling of Nonlinear Systems in Vector-Valued Reproducing Kernel Hilbert Spaces.[download](../assets/Hou26b.pdf).
-- P. Niu\*, E. Ma\*, **B. Hou**\*, H. Zhou, D. Zhou, H. Zhang, R. Etesami, O. Milenkovic. GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models.
-
+- **Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control**<br>
+  *In submission, 2026. Short version accepted at a NeurIPS 2026 workshop* · [Preprint](https://arxiv.org/pdf/2610.10054)<br>
+  **B. Hou**\*, S. Wang\*, S. Ambekar, M. Raginsky, O. Milenkovic
+- **Spatially-Coupled Network RNA Velocities: A Control-Theoretic Perspective**<br>
+  *In submission, 2026* · [Preprint](https://arxiv.org/pdf/2601.01018)<br>
+  **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic
+- **A Behavioral Framework for Data-Driven Modeling of Nonlinear Systems in Vector-Valued Reproducing Kernel Hilbert Spaces**<br>
+  *Under revision, 2026* · [Preprint](../assets/Hou26b.pdf)<br>
+  **B. Hou**, M. Raginsky
+- **GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**<br>
+  *In submission, 2026*<br>
+  P. Niu\*, E. Ma\*, **B. Hou**\*, H. Zhou, D. Zhou, H. Zhang, R. Etesami, O. Milenkovic
 
 </div>
 
