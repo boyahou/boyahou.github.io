@@ -38,19 +38,19 @@ My research focuses on developing machine learning methods for complex systems a
 
 <div class="pub-panel on" id="panel-sel" markdown="1">
 
-** Nonparametric Sparse Online Learning of the Koopman Operator**
+### 📄 Nonparametric Sparse Online Learning of the Koopman Operator. 
 *To appear in SIAM Journal on Control and Optimization (SICON), 2026*  [download](https://arxiv.org/abs/2405.07432)  
 **B. Hou**, S. Sanjari, N. Dahlin, A. Koppel, S. Bose  
 
-** Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach**
+### 📄 Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach. 
 *Proceedings of the 40th International Conference on Machine Learning (ICML), 2023*  [download](https://proceedings.mlr.press/v202/hou23c.html)  
 **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya  
 
-** Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control**
+### 📄 Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control. 
 *In submission, 2026. Short version accepted at a NeurIPS 2026 workshop.*  [download](https://arxiv.org/pdf/2610.10054) 
 **B. Hou**\*, S. Wang\*, S. Ambekar, M. Raginsky, O. Milenkovic  
 
-** Spatially-Coupled Network RNA Velocities: A Control-Theoretic Perspective**
+### 📄 Spatially-Coupled Network RNA Velocities: A Control-Theoretic Perspective. 
 *In submission, 2026.*  [download](https://arxiv.org/pdf/2601.01018) 
 **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic  
 
