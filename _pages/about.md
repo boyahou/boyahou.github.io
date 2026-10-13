@@ -25,7 +25,7 @@ I am a postdoctoral research associate at the University of Illinois Urbana-Cham
 My research focuses on developing machine learning methods for complex systems across science and engineering, spanning learning, probabilistic sampling, control, and stability analysis. Drawing on machine learning, operator theory, control and dynamical systems, I take a unified approach to these problems through learned operator representations that govern the evolution of functions or distributions. These operators are linear even when the underlying system is nonlinear. I construct them from trajectory data with finite-sample guarantees, and exploit their structure to design efficient algorithms for each task, with provable guarantees that black-box models do not offer. Active research directions include:
 
 - **Operator learning with finite-sample guarantees:** learning operator representations of nonlinear dynamical systems from trajectory data, with compression, multi-agent, and online algorithms that scale to large, distributed and streaming data, applied to data-driven decision-making.
-- **Operator-guided probabilistic sampling:** sampling trajectories of diffusion processes by integrating operator learning with optimal stochastic control, with applications to transition path sampling in molecular dynamics, and potential extension to problems that share its mathematical foundations, such as generative modeling with diffusion models and Schrödinger bridges.
+- **Operator-guided probabilistic sampling:** sampling trajectories of diffusion processes by integrating operator learning with optimal stochastic control, with applications to transition path sampling in machine learning and molecular dynamics.
 - **Applications in scientific AI and engineering:** molecular and cellular dynamics, analysis of drug intervention, and power grid operations.
 - **Dynamical systems for AI:** e.g., data attribution and unlearning for LLMs.
 
@@ -58,7 +58,7 @@ My research focuses on developing machine learning methods for complex systems a
 
 <div class="pub-panel" id="panel-all" markdown="1">
 
-#### Journal Articles
+### Journal Articles
 
 - **B. Hou**, S. Sanjari, N. Dahlin, A. Koppel, S. Bose. Nonparametric Sparse Online Learning of the Koopman Operator.  
 *SIAM Journal on Control and Optimization*, to appear, 2026. [download](https://arxiv.org/abs/2405.07432).  
@@ -69,7 +69,7 @@ My research focuses on developing machine learning methods for complex systems a
 - **B. Hou**, S. Bose, L. Marla, K. Haran. Impact of Aviation Electrification on Airports: Flight Scheduling and Charging.    
 *IEEE Transactions on Intelligent Transportation Systems*, 2023. [download](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10296862).
 
-#### Conference Proceedings
+### Conference Proceedings
 
 - **B. Hou**, S. Sanjari, N. Dahlin, S. Bose, U. Vaidya. Sparse Learning of Dynamical Systems in Reproducing Kernel Hilbert Space: An Operator-Theoretic Approach.  
 *ICML*, 2023. [download](https://proceedings.mlr.press/v202/hou23c.html). 
@@ -80,7 +80,7 @@ My research focuses on developing machine learning methods for complex systems a
 - **B. Hou**, S. Bose, K. Haran. Powering Electric Aircraft at O'Hare Airport: A Case Study.  
 *IEEE PES General Meeting*, 2020. [download](https://ieeexplore.ieee.org/abstract/document/9281871)
 
-#### Preprints
+### Preprints
 
 - **B. Hou**\*, S. Wang\*, S. Ambekar, M. Raginsky, O. Milenkovic. Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control. [download](https://arxiv.org/pdf/2610.10054) 
 - **B. Hou**, M. Raginsky, A. Pandey, O. Milenkovic. Spatially-Coupled Network RNA Velocities: A Control-Theoretic Perspective. [download](https://arxiv.org/pdf/2601.01018)
