@@ -62,11 +62,12 @@ My research focuses on developing machine learning methods for complex systems a
 
 - **B. Hou**, S. Sanjari, N. Dahlin, A. Koppel, S. Bose. Nonparametric Sparse Online Learning of the Koopman Operator.  
 *SIAM Journal on Control and Optimization*, to appear, 2026. [download](https://arxiv.org/abs/2405.07432).  
-- J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya. Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator. *Physica D: Nonlinear Phenomena*, 2025. [download](https://www.sciencedirect.com/science/article/abs/pii/S0167278925001411).  
+- J. Lee, B. Hamzi, **B. Hou**, H. Owhadi, G. Santin, U. Vaidya. Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator.  
+*Physica D: Nonlinear Phenomena*, 2025. [download](https://www.sciencedirect.com/science/article/abs/pii/S0167278925001411).  
 - A. Reddy Ramapuram Matavalam, **B. Hou**, H. Choi, S. Bose, U. Vaidya. Data-Driven Transient Stability Analysis Using the Koopman Operator.   *International Journal of Electrical Power and Energy Systems*, 2024. [download](https://www.sciencedirect.com/science/article/pii/S0142061524005301).
 - **B. Hou**, A. Reddy Ramapuram Matavalam, S. Bose, U. Vaidya. Propagating Uncertainty Through System Dynamics in Reproducing Kernel Hilbert Space.  
 *Physica D: Nonlinear Phenomena*, 2024. [download](https://www.sciencedirect.com/science/article/pii/S0167278924001192?via%3Dihub).
-- **B. Hou**, S. Bose, L. Marla, K. Haran. Impact of Aviation Electrification on Airports: Flight Scheduling and Charging.    
+- **B. Hou**, S. Bose, L. Marla, K. Haran. Impact of Aviation Electrification on Airports: Flight Scheduling and Charging.      
 *IEEE Transactions on Intelligent Transportation Systems*, 2023. [download](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10296862).
 
 ### Conference Proceedings
