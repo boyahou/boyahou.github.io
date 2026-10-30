@@ -17,7 +17,7 @@ redirect_from:
 .pub-panel.on { display: block; }
 </style>
 
-I am a postdoctoral research associate at the University of Illinois Urbana-Champaign (UIUC), working with Prof. Maxim Raginsky and Prof. Olgica Milenkovic. Prior to this, I received my Ph.D in Electrical and Computer Engineering at UIUC advised by Prof. Subhonmesh Bose. I obtained B.Eng. in Electrical Engineering from Zhejiang University. 
+I am a postdoctoral research associate at the University of Illinois Urbana-Champaign (UIUC), working with Prof. Maxim Raginsky and Prof. Olgica Milenkovic. Prior to this, I received my Ph.D in Electrical and Computer Engineering at UIUC advised by Prof. Subhonmesh Bose. I obtained B.Eng. in Electrical Engineering from Zhejiang University. [CV](../assets/boya_CV_26.pdf)
 
 
 # Research
@@ -25,7 +25,7 @@ I am a postdoctoral research associate at the University of Illinois Urbana-Cham
 My research focuses on developing machine learning methods for complex systems across science and engineering, spanning learning, probabilistic sampling, control, and stability analysis. Drawing on machine learning, operator theory, control and dynamical systems, I take a unified approach to these problems through learned operator representations that govern the evolution of functions or distributions. These operators are linear even when the underlying system is nonlinear. I construct them from trajectory data with finite-sample guarantees, and exploit their structure to design efficient algorithms for each task, with provable guarantees that black-box models do not offer. Active research directions include:
 
 - **Operator learning with finite-sample guarantees:** learning operator representations of nonlinear dynamical systems from trajectory data, with compression, multi-agent, and online algorithms that scale to large, distributed and streaming data, applied to data-driven decision-making.
-- **Operator-guided probabilistic sampling:** sampling trajectories of diffusion processes by integrating operator learning with optimal stochastic control, with applications to transition path sampling in machine learning and molecular dynamics.
+- **Operator-guided sampling and steering of diffusion processes:** learning-based methods that combine operator learning with optimal stochastic control to sample from target path measures, applied to transition path sampling in molecular dynamics.
 - **Applications in scientific AI and engineering:** molecular and cellular dynamics, analysis of drug intervention, and power grid operations.
 - **Dynamical systems for AI:** e.g., data attribution and unlearning for LLMs.
 
